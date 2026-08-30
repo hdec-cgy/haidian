@@ -1,0 +1,79 @@
+{
+  "schema_version": "0.1.0",
+  "sources": [
+    {
+      "id": "SITE-PACKAGE",
+      "path": "brief/site-package/",
+      "source_type": "official_public",
+      "usage": "Project brief, enums, allowed design space, ranges, and schemas."
+    },
+    {
+      "id": "SOURCE-REGISTRY",
+      "path": "data/source_registry.json",
+      "source_type": "repository_public_registry",
+      "usage": "Public/cleared/provisional source usability registry; distinguishes formal-ready, background-only, provisional-only, and needs-review materials."
+    },
+    {
+      "id": "PROCESSED-FACT-PACK",
+      "path": "data/processed/agent_fact_pack.md",
+      "source_type": "repository_processed_reference",
+      "usage": "Agent-readable navigation layer for scopes, required tasks, source-use boundaries, and missing-data checklist; not a new authority source."
+    },
+    {
+      "id": "BOUNDARY-SOURCE",
+      "path": "brief/site-package/geometry/provisional_boundaries.geojson",
+      "source_type": "agent_inferred_from_public_data",
+      "usage": "Submitted site boundary geometry source (provisional)."
+    },
+    {
+      "id": "KEY-AREA-SOURCE",
+      "path": "brief/site-package/geometry/provisional_boundaries.geojson",
+      "source_type": "agent_inferred_from_public_data",
+      "usage": "Three required detailed-design key area boundaries (provisional)."
+    },
+    {
+      "id": "OFFICIAL-ANNOUNCEMENT",
+      "url": "https://ghzrzyw.beijing.gov.cn/zhengwuxinxi/tzgg/hd/202605/t20260509_4643047.html",
+      "source_type": "official_public",
+      "usage": "Official announcement tasks, scope levels, key areas, language, and deliverable context."
+    },
+    {
+      "id": "AGENT-TASKBOOK",
+      "path": "brief/site-package/agent_taskbook.json",
+      "source_type": "user_provided_cleared",
+      "usage": "Agent-facing open-call principles, six required agent tasks, scenario/branding/operation requirements, and boundary clause."
+    },
+    {
+      "id": "USER-DETAILED-PROPOSAL",
+      "source_type": "user_provided_working_master",
+      "usage": "The user-provided Chinese master proposal `京张AI创新带-方案合稿.md` is the sole narrative and strategy source for this rebuilt package. It defines the title, one-core/three-zone/two-wing structure, five problem diagnoses, five strategies, four application loops, scenarios, phasing and communication language. A byte-identical archival copy is preserved as `report/narrative.md`; public-release rights remain pending confirmation."
+    },
+    {
+      "id": "BEIJING-COMPUTE-INFRA-2024-2027",
+      "url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202404/t20240425_3631820.html",
+      "source_type": "official_public",
+      "usage": "Policy context for the proposal's compute-infrastructure direction; exact quantitative claims require line-by-line verification before formal citation."
+    },
+    {
+      "id": "NDRC-GREEN-DATACENTER-2024",
+      "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202407/t20240723_1391964.html",
+      "source_type": "official_public",
+      "usage": "Background policy reference for green and low-carbon data-centre design; not treated as proof of site-specific engineering feasibility."
+    },
+    {
+      "id": "USER-SPATIAL-AND-POI-DATA",
+      "source_type": "user_provided_pending_verification",
+      "usage": "Supports the proposal's evidence-graph narrative and provisional spatial diagnosis. Raw provenance, acquisition date, coordinate system and licensing have not yet been supplied, so derived figures are labelled as design evidence rather than statutory facts."
+    },
+    {
+      "id": "USER-INTERNAL-MEETING-20260818",
+      "source_type": "private_background_pending_clearance",
+      "usage": "Internal discussion material mentioned in the master proposal. Used only to understand design intent; excluded from public quotation and formal factual support until clearance is confirmed."
+    },
+    {
+      "id": "THIRD-PARTY-CASE-MATERIALS",
+      "source_type": "external_case_reference_pending_clearance",
+      "usage": "Case references and example images appearing in the master proposal are background inspiration only. Exact original source, licence and attribution must be confirmed before public release."
+    }
+  ]
+}

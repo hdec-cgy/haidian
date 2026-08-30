@@ -1,0 +1,47 @@
+{
+  "schema_version": "0.1.0",
+  "assumptions": [
+    {
+      "id": "A-CONTROLS-001",
+      "status": "pending_professional_confirmation",
+      "statement": "Detailed regulatory controls, road redlines, ownership, municipal utilities, and engineering constraints must be confirmed from official attachments before statutory use.",
+      "impact": "The package can be reviewed using the submitted provisional rough boundary and design layers, but neither the boundary nor derived area values may be treated as an official redline or statutory control; all precision-sensitive metrics require recalculation after official polygons are supplied."
+    },
+    {
+      "id": "A-EVIDENCE-001",
+      "status": "pending_raw_data_audit",
+      "statement": "Numbers, POI counts, accessibility values and spatial correlations in the user master mix public facts, scenario assumptions and design inference; the raw tables and calculation notebooks are not yet attached.",
+      "impact": "They communicate the diagnosis method and design direction but must not be read as audited baseline statistics."
+    },
+    {
+      "id": "A-COMPUTE-001",
+      "status": "conceptual_design_assumption",
+      "statement": "The three main compute hubs, twelve edge nodes and their energy, cooling and network relationships are a design-system hypothesis rather than an approved engineering layout.",
+      "impact": "Capacity, equipment, PUE, redundancy, grid connection, heat reuse and safety distance require specialist feasibility studies."
+    },
+    {
+      "id": "A-MOBILITY-001",
+      "status": "pending_transport_validation",
+      "statement": "Menu-selected mobility, autonomous shuttles, robot delivery, low-altitude services and dynamic kerb allocation assume future operational permissions and integration with existing rail, road and station systems.",
+      "impact": "Routes, frequencies, demand, airspace, traffic organisation and emergency access remain scenario parameters, not approved operations."
+    },
+    {
+      "id": "A-HERITAGE-001",
+      "status": "pending_conservation_review",
+      "statement": "The railway heritage inventory, value grading, protection boundaries and adaptive-reuse permissions are incomplete in the current package.",
+      "impact": "The one-axis/three-belt/five-act narrative is a cultural-design framework and requires conservation-authority review before intervention."
+    },
+    {
+      "id": "A-RIGHTS-001",
+      "status": "pending_user_confirmation",
+      "statement": "Publication rights, portrait/privacy permissions and third-party licences for all images and source materials in the user master have not yet been confirmed.",
+      "impact": "The rebuilt package remains community-display-only and cannot be declared fully cleared for public release until the rights statement is completed."
+    },
+    {
+      "id": "A-IDENTITY-001",
+      "status": "pending_user_confirmation",
+      "statement": "The final submitting entity, team name, contact and attribution order have not yet been provided.",
+      "impact": "Agent and author metadata remain clearly marked as draft placeholders."
+    }
+  ]
+}
