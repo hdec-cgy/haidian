@@ -1070,7 +1070,7 @@ The inventory-update cloud applet provides a lightweight quantitative UI for the
 
 **Space position**: livable assets in low-use Jing-Zhang corridor zones, sub-bridge spaces, idle buildings, edge greens, etc.
 
-**Wisdom experience**: 1. **Resource Square browsing**: first page screens "full/hotspot/light/heavy" assets and positions by spatial type and model; **Multi-dimensional labeling**: retrieve by city, land type, label, sort; AI suggests matching assets from user history and graphics; **Resource map positioning**: switch to maps to view asset distribution, tenure boundaries, perimeters, cutting ground-cost; **Transaction case reference**: display historical cases via "resource column" to supply business and profit models;
+**Wisdom experience**: 1. **Resource Square browsing**: first page screens "full/hotspot/light/heavy" assets and positions by spatial type and model; **Multi-dimensional labeling**: retrieve by city, land type, label, sort; AI matches assets via non-identifying rule rules on asset traits (no personal history; see Appendix E governance); **Resource map positioning**: switch to maps to view asset distribution, tenure boundaries, perimeters, cutting ground-cost; **Transaction case reference**: display historical cases via "resource column" to supply business and profit models;
 
 **Data and privacy boundary**: open-space asset data is anonymized; tenure and financial details are accessible only to accredited operators.
 
@@ -1746,11 +1746,10 @@ This conceptual strategy targets the urban design competition; tenure, planning 
 #### Main references
 
 1. The 100-year Jing-Zhang AI Innovation Belt Open Job Book for Smart Bodies summarises local clean-up rights.
-2. Proceedings of the Internal Seminar on the Jin-Zhang Railway Project, 18 August 2026.
-3. 14 Inventory Renewal Clouds: Small Procedures for Urban Space Assets (2024.10) - updates cloud concepts for inventory assets "for space adaptation projects, space for projects" and outlines three-phase models for asset exploration, packaging, and dissemination.
-4. China Institute for Urban Planning and Design: "Concept for integrating the park at the Jing-Zhang Railway Sites" [CCP], March 2020.
-5. China Institute of Architectural and Design Research, Ltd.: "Draft Convergence Concept Program for Jing-Zhang Railway Site Parks", 2020.
-6. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary OSM road, orbit, water and green-field data for design research and spatial relationship identification.
+2. 14 Inventory Renewal Clouds: Small Procedures for Urban Space Assets (2024.10) - updates cloud concepts for inventory assets "for space adaptation projects, space for projects" and outlines three-phase models for asset exploration, packaging, and dissemination.
+3. China Institute for Urban Planning and Design: "Concept for integrating the park at the Jing-Zhang Railway Sites" [CCP], March 2020.
+4. China Institute of Architectural and Design Research, Ltd.: "Draft Convergence Concept Program for Jing-Zhang Railway Site Parks", 2020.
+5. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary OSM road, orbit, water and green-field data for design research and spatial relationship identification.
 
 > Before formal submission, register page numbers and quoted boundaries of external data at `sources.json ' and the unknown conditions of location, title, structural security, town and fire should be registered at `assumptions.json.
 
@@ -2201,10 +2200,9 @@ Data must include total surface, building size, energy consumption, drawings, an
 #### Main references
 
 1. The 100-year Jing-Zhang AI Innovation Belt Open Job Book for Smart Bodies provides a local summary of clean-up rights.
-2. Proceedings of the Internal Seminar on the Jin-Zhang Railway Project, 18 August 2026.
-3. Beijing City Bureau for Economics and Informatization & Communications Authority: Implementation Programme for Construction of Infrastructure in Beijing City Commutational Power (2024-2027). [https://jxj.beijing.gov.cn/zwgk/2024zcwj/202406/t20240621_372303.html] (https://jxj.beijing.gov.cn/zwgk/2024zwj/2024400621_372303.html)]
-4. Departments including the National Development Reform Commission: Specialized Action Plan for Green Low-Carbon Development in Data Centres. [https://www.ndrc.gov.cn/xwdt/tzgg/202407/t2020723_1391895_ext.html] (https://www.ndrc.gov.cn/xwdt/tzgg/2024077/t200723_13918995_ext.html)]
-5. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary scope covering OSM road, orbit, water system and green-field background data, for design research and spatial relationship identification only.
+2. Beijing City Bureau for Economics and Informatization & Communications Authority: Implementation Programme for Construction of Infrastructure in Beijing City Commutational Power (2024-2027). [https://jxj.beijing.gov.cn/zwgk/2024zcwj/202406/t20240621_372303.html] (https://jxj.beijing.gov.cn/zwgk/2024zwj/2024400621_372303.html)]
+3. Departments including the National Development Reform Commission: Specialized Action Plan for Green Low-Carbon Development in Data Centres. [https://www.ndrc.gov.cn/xwdt/tzgg/202407/t2020723_1391895_ext.html] (https://www.ndrc.gov.cn/xwdt/tzgg/2024077/t200723_13918995_ext.html)]
+4. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary scope covering OSM road, orbit, water system and green-field background data, for design research and spatial relationship identification only.
 
 
 
@@ -2449,10 +2447,9 @@ This conceptual strategy serves the urban design competition, not a stand-alone 
 #### Main references
 
 1. The 100-year Jing-Zhang AI Innovation Belt Open Job Book for Smart Bodies summarizes local clean-up rights.
-2. Proceedings of the Internal Seminar on the Jin-Zhang Railway Project, 18, August 2026.
-3. China Institute for Urban Planning and Design: "The concept of a proposal for the integration of the park at the Jing-Zhang Railway Sites" [CCP], March 2020.
-4. China Institute of Architectural and Design Research, Ltd.: "A draft of the Convergence Concept Program for Jing-Zhang Railway Site Parks", 2020.
-5. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary scope and OSM road, orbit, water system and green field background data, only for design research and space relationship identification.
+2. China Institute for Urban Planning and Design: "The concept of a proposal for the integration of the park at the Jing-Zhang Railway Sites" [CCP], March 2020.
+3. China Institute of Architectural and Design Research, Ltd.: "A draft of the Convergence Concept Program for Jing-Zhang Railway Site Parks", 2020.
+4. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary scope and OSM road, orbit, water system and green field background data, only for design research and space relationship identification.
 
 > Before formal submission, register specific page numbers and quoted boundaries for external info at `sources.json ', and unknown conditions such as location, coverage, structural security, town and fire safety should be registered at `assumptions.json.
 
@@ -2700,7 +2697,7 @@ Shared facilities, transport, emergency resources and community services are dyn
 |Dynamic resource movement|Resource mismatch|Supply-demand matching, hierarchical authorization, continual markup|
 |Run feedback design|Data lacks flow-space return|Operating data → Space design feedback loop (link 4.4.6)|
 
-> **Real anchor:** Haidian City Brain (memorandum signed in 2018; structure 1+1+2+N; computational power 2028 trillion ops/s; >200,000 sensors region-wide; access to 10,000 road cameras, 13 boards, over 40 systems; perception data ≈5 billion + 60 million daily; "time-space information map" built). Effective cases: scavenger-governance violation rate 26%.4%, identification accuracy 95%; snow-sweeping advance 30-40 min; western intelligent traffic lights and fire-truck efficiency improved by 20%.
+> **Real anchor:** Haidian City Brain (memorandum signed in 2018; structure 1+1+2+N; computational power 2028 trillion ops/s; >200,000 sensors region-wide; access to 10,000 road cameras, 13 boards, over 40 systems; perception data ≈5 billion + 60 million daily; "time-space information map" built). Effective cases: scavenger-governance violation rate 26%.4%, identification accuracy 95%; snow-sweeping advance 30-40 min; western intelligent traffic lights and fire-truck efficiency improved by 20%. (Press-reported figures, not independently verified; reference base only, not commitments of this proposal.)
 
 #### 5.3.7 Site cards: three typical user-hours
 
@@ -2861,6 +2858,8 @@ Public-space proportion is computed from the design layer versus total boundary 
 The results package finalizes the team's original version but does not present the conceptual proposal as statutory planning or definitive implementation. Major risks: location/area errors from temporary boundaries; insufficient transport, municipal, electricity, fire-protection and environmental data; limited traffic, power-facility, flood, vibration, noise, heat-discharge and functional-conflict information; lack of transparency; privacy leaks or algorithmic automatic deviations; confusing historical recovery and unclear external authorizations for fonts, images, media.
 
 Team results are registered separately from third-party data.
+
+Appendices in `assets/media/`: task-closure(A) · logo-vi-direction(B) · regional-collaboration(C) · pilot-protocol(D) · data-governance(E) · claims-audit(F) · rights-inventory(G).
 
 ## References
 

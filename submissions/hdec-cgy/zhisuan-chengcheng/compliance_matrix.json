@@ -953,6 +953,10 @@
         "KEY_AREAS_TRUST",
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
+      ],
+      "appendices": [
+        "report/task-closure.md",
+        "report/regional-collaboration.md"
       ]
     },
     {
@@ -1006,6 +1010,9 @@
         "KEY_AREAS_TRUST",
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
+      ],
+      "appendices": [
+        "report/task-closure.md"
       ]
     },
     {
@@ -1059,6 +1066,10 @@
         "KEY_AREAS_TRUST",
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
+      ],
+      "appendices": [
+        "report/task-closure.md",
+        "report/pilot-protocol.md"
       ]
     },
     {
@@ -1112,6 +1123,10 @@
         "KEY_AREAS_TRUST",
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
+      ],
+      "appendices": [
+        "report/task-closure.md",
+        "report/logo-vi-direction.md"
       ]
     },
     {
@@ -1165,6 +1180,10 @@
         "KEY_AREAS_TRUST",
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
+      ],
+      "appendices": [
+        "report/task-closure.md",
+        "report/logo-vi-direction.md"
       ]
     },
     {
@@ -1218,7 +1237,15 @@
         "KEY_AREAS_TRUST",
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
+      ],
+      "appendices": [
+        "report/task-closure.md",
+        "report/data-governance.md",
+        "report/pilot-protocol.md"
       ]
     }
+  ],
+  "notes": [
+    "assets/media/ 目录为评审补充要求配套：A 任务闭环、B 品牌VI、C 区域协同、D 试点协议、E 数据治理、F 主张审计、G 权利清单（A-RIGHTS-001）。"
   ]
 }

@@ -38,7 +38,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "a858d5985d91f6b84814cf0d19cda40af1750267c08453aab50489e8ef2a1b98"
+      "sha256": "7e05ee21fdfc242975fa82383aa0950d310e6b2de15e6dc182cbf7f495acc696"
     },
     {
       "path": "agent.json",
@@ -68,13 +68,13 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "779ece583498a161f2b004877eb8ee751a03bdf455e80908d6059edff5ee2584"
+      "sha256": "0e189963237ca484bad3692ddfc2bc4530fcf14be780cfa425997ed5196ad1ea"
     },
     {
       "path": "compliance_matrix.json",
       "role": "compliance_matrix",
       "required": true,
-      "sha256": "3408a9f28202f861235ef545067173285da51dfd1b7e27b7473329847b4ca493"
+      "sha256": "8a6a813f414be3ac1d6fb282e0ea0c144945eabacf87092ff9d1259113e3305f"
     },
     {
       "path": "standard_matrix.json",
@@ -93,7 +93,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "4a50b2b6a62107c081149b90c0c5fa86dc455fc2996f99d27d76ff028081d580"
+      "sha256": "51509c3e82efca7ee1b6a39c6751299e288440cbc7dcd1e80282b97f60ce459c"
     },
     {
       "path": "report/narrative.md",
@@ -126,7 +126,7 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "698c5cc57536ff470a65571c6c3c1ccd67321844c4f7c7652325bc40ec1f44b4"
+      "sha256": "d7292aa743f8e0d1eeb77a76300bd39380ad35aa246302941503961ba62208e5"
     },
     {
       "path": "assets/figures/key-areas.png",
@@ -223,7 +223,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "6775b832490cfdf6e0b9b6ddcc954ba13039b7d67980d9ac899f5e482567f76e"
+      "sha256": "58e71966bc699c73d4022897910b883b6ab1b494f9dd3c6df34bfe9a06512f01"
     },
     {
       "path": "report/proposal.en.html",
@@ -231,7 +231,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "0c4a15dd7dc0043a294376c3f516742351dd609194c2db355dc7e21afa69e856"
+      "sha256": "92c67dc69cb34b5ead5c479d865917d6dbfac1972d19b73899f261801f35bf86"
     },
     {
       "path": "visual/index.en.html",
@@ -302,7 +302,7 @@
       "role": "changelog",
       "required": false,
       "language": "zh",
-      "sha256": "54cb4f85c4e58dc46c0ea05856b7b59a8aea74d200d4bdee2ddc5cd6ed63bf35"
+      "sha256": "b50466057b923da34950eb22fbf583298dad22442c0f51964ecc9dc5fde98ce0"
     },
     {
       "path": "assets/figures/ai-compute-infrastructure-masterplan.webp",
@@ -1254,6 +1254,62 @@
       "language": "en",
       "translation_of": "assets/figures/sandbox-preview.png",
       "sha256": "8d27c5bf366ec9fc3473308bf8eb8b7b3265c1449e02890d13020eff67e2db39"
+    },
+    {
+      "path": "assets/media/appendix-a-task-closure.md",
+      "role": "transcript",
+      "required": false,
+      "language": "zh",
+      "title_zh": "A 任务闭环（agent.1—6逐项回应+全球案例对比+人群画像+地标名录等）",
+      "sha256": "13c7871618a7c705dd412bb3b834427c79b83a4e007be227d5f5191522add15e"
+    },
+    {
+      "path": "assets/media/appendix-b-logo-vi-direction.md",
+      "role": "transcript",
+      "required": false,
+      "language": "zh",
+      "title_zh": "B 品牌与视觉识别方向（命名/母标/色彩/字体/子品牌/禁用）",
+      "sha256": "c4d6338aa800586441eb9a7bec162432ccdb4a10187eed025c3dcdcffcc4d872"
+    },
+    {
+      "path": "assets/media/appendix-c-regional-collaboration.md",
+      "role": "transcript",
+      "required": false,
+      "language": "zh",
+      "title_zh": "C 三区两翼区域协同机制表（概念建议）",
+      "sha256": "e52a7add7ca15253437f57f6e58d6650f7461ebda7dabb859eabee87ed296a08"
+    },
+    {
+      "path": "assets/media/appendix-d-pilot-protocol.md",
+      "role": "transcript",
+      "required": false,
+      "language": "zh",
+      "title_zh": "D 0—1年可复现试点协议与统一实施矩阵",
+      "sha256": "da71f492227571558c7e8a6cc03f451ecbfc3adca22ceec0db90d2a0e7d64c73"
+    },
+    {
+      "path": "assets/media/appendix-e-data-governance.md",
+      "role": "transcript",
+      "required": false,
+      "language": "zh",
+      "title_zh": "E 统一数据治理表（资产推荐/活力评价/论坛/社群Agent）",
+      "sha256": "d21a5822c6ae5840aa75f4b4070302b54a18c6540fe13f8bf6061d07cc838915"
+    },
+    {
+      "path": "assets/media/appendix-f-claims-audit.md",
+      "role": "transcript",
+      "required": false,
+      "language": "zh",
+      "title_zh": "F 定量与事实主张审计表（F1—F16）",
+      "sha256": "069f43d81a23f1f3a80fb599d5ab0be6dbd948f368e909abfa365330e9ef448a"
+    },
+    {
+      "path": "assets/media/appendix-g-rights-inventory.md",
+      "role": "transcript",
+      "required": false,
+      "language": "zh",
+      "title_zh": "G 权利清单（A-RIGHTS-001逐项清权）",
+      "sha256": "900629aa1a432b314e8105db392c8b32502d857e0246387d2cbca61b5f0fe6d0"
     }
   ],
   "validation_claim": {

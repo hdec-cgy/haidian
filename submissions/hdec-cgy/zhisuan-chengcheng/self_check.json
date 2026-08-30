@@ -146,6 +146,13 @@
         "submissions/hdec-cgy/zhisuan-chengcheng/assets/figures/yingcheng/spatial-asset-map.webp",
         "submissions/hdec-cgy/zhisuan-chengcheng/assets/figures/zsgy.en.webp",
         "submissions/hdec-cgy/zhisuan-chengcheng/assets/figures/zsgy.webp",
+        "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/appendix-a-task-closure.md",
+        "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/appendix-b-logo-vi-direction.md",
+        "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/appendix-c-regional-collaboration.md",
+        "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/appendix-d-pilot-protocol.md",
+        "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/appendix-e-data-governance.md",
+        "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/appendix-f-claims-audit.md",
+        "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/appendix-g-rights-inventory.md",
         "submissions/hdec-cgy/zhisuan-chengcheng/assets/media/cover.png",
         "submissions/hdec-cgy/zhisuan-chengcheng/assets/prototypes-shots/7.1.en.webp",
         "submissions/hdec-cgy/zhisuan-chengcheng/assets/prototypes-shots/7.1.webp",
@@ -229,7 +236,7 @@
       "ai_package_stages": {
         "submissions/hdec-cgy/zhisuan-chengcheng": "formal"
       },
-      "total_bytes": 40466037,
+      "total_bytes": 40506611,
       "maintainer_bypass": false
     },
     "stderr": ""
