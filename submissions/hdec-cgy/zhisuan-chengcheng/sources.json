@@ -66,11 +66,6 @@
       "usage": "Supports the proposal's evidence-graph narrative and provisional spatial diagnosis. Raw provenance, acquisition date, coordinate system and licensing have not yet been supplied, so derived figures are labelled as design evidence rather than statutory facts."
     },
     {
-      "id": "USER-INTERNAL-MEETING-20260818",
-      "source_type": "private_background_pending_clearance",
-      "usage": "Internal discussion material mentioned in the master proposal. Used only to understand design intent; excluded from public quotation and formal factual support until clearance is confirmed."
-    },
-    {
       "id": "THIRD-PARTY-CASE-MATERIALS",
       "source_type": "external_case_reference_pending_clearance",
       "usage": "Case references and example images appearing in the master proposal are background inspiration only. Exact original source, licence and attribution must be confirmed before public release."

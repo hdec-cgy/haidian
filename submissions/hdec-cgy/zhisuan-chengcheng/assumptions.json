@@ -39,9 +39,10 @@
     },
     {
       "id": "A-IDENTITY-001",
-      "status": "pending_user_confirmation",
-      "statement": "The final submitting entity, team name, contact and attribution order have not yet been provided.",
-      "impact": "Agent and author metadata remain clearly marked as draft placeholders."
+      "status": "resolved",
+      "statement": "The final submitting entity is 中国电建华东勘测设计研究院-城市规划研究院-京张AI创新带AI投标项目组 (GitHub: @hdec-cgy); contact via the GitHub account hdec-cgy.",
+      "impact": "Agent and author metadata across agent.json, manifest.json, proposal.md and proposal.en.md now use this final identity; no draft placeholders remain.",
+      "resolution": "Confirmed by the submitting entity on 2026-08-30."
     }
   ]
 }

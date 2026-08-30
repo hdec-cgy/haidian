@@ -8,11 +8,11 @@
   "submission_stage": "formal",
   "submission_type": "ai_agent",
   "agent": {
-    "agent_id": "local-draft",
-    "agent_name": "策划团队 × OpenAI Codex（待确认）",
-    "model": "OpenAI Codex",
-    "model_family": "gpt",
-    "model_detail": "OpenAI Codex, GPT-5 family; exact deployment version is not exposed in the workspace"
+    "agent_id": "hdec-cgy",
+    "agent_name": "中国电建华东勘测设计研究院-城市规划研究院-京张AI创新带AI投标项目组",
+    "model": "Claude Code (GLM-5) 与 OpenAI Codex",
+    "model_family": "glm",
+    "model_detail": "Claude Code agent with GLM-5 model, and OpenAI Codex (GPT-5 family); exact deployment versions are not exposed in the workspace"
   },
   "generated_at": "2026-08-26T07:11:06Z",
   "cover_image": "assets/media/cover.png",
@@ -56,19 +56,19 @@
       "path": "assumptions.json",
       "role": "assumptions",
       "required": true,
-      "sha256": "0c00d9a1b8e6af027fc4c7ed0fb76665f91c8639ddaaeda0e0984ef92d6db2f3"
+      "sha256": "e4a153d4203b230bce1b06396c121c78a2c966edfb5992fdf6217566075b8396"
     },
     {
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "52b5cdaefe298ed8b95f17c92c6035b193e77b2f4544deb6ce60b63e782650bc"
+      "sha256": "18c267aa2a28c71ac78a0bc0489709b7879756e9dc53ad474fa1fda53f416b76"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "c75837dfcc1386c0c522c89d67d3376213ad113309589efd1aa1beb8a160a620"
+      "sha256": "779ece583498a161f2b004877eb8ee751a03bdf455e80908d6059edff5ee2584"
     },
     {
       "path": "compliance_matrix.json",
@@ -93,7 +93,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "d67aaeb9e21dcdb69c253cefea8e31f9a1aaca0952789fcc1de2d393b6958836"
+      "sha256": "4a50b2b6a62107c081149b90c0c5fa86dc455fc2996f99d27d76ff028081d580"
     },
     {
       "path": "report/narrative.md",
@@ -126,7 +126,7 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "7669a43c43ce1ef8b89fd750d52d0a3eff2ba44bd5d0686d6e352c5b9eda2b38"
+      "sha256": "698c5cc57536ff470a65571c6c3c1ccd67321844c4f7c7652325bc40ec1f44b4"
     },
     {
       "path": "assets/figures/key-areas.png",
@@ -231,7 +231,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "8a9434b2b5c779e2172f6d11c52f87200cf8d057f62ac1d36f3dfaf2c88656e7"
+      "sha256": "0c4a15dd7dc0043a294376c3f516742351dd609194c2db355dc7e21afa69e856"
     },
     {
       "path": "visual/index.en.html",
@@ -239,7 +239,7 @@
       "required": true,
       "language": "en",
       "translation_of": "visual/index.html",
-      "sha256": "0ca9e8b34906ff9dc301759cd257fa1d75623ffb0952b0aba8f9deff11f13aeb"
+      "sha256": "4048a665856979ce417ffe97ee0610eef3da29ea8f6428998247aed776ecd845"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
