@@ -48,8 +48,36 @@
 - 由建议设立的伦理与数据小组每半年抽审；违规场景即降级或下线；
 - 审计纪要纳入年度开放决策纪要发布。
 
+## E.6 敏感数据治理矩阵（真实试点前置条件）
+
+> 下表为条件式设计，不表示相关数据已经取得或可直接接入。每个真实试点上线前必须完成合法性审查、数据保护影响评估（DPIA）、安全测试、供应方与处理方责任确认及退出演练；无法满足时仅使用公开、合成或现场人工统计数据。
+
+| 场景/字段 | 目的与最小必要性 | 合法来源与接入条件 | 建议保存期与访问角色 | 退出、删除、申诉与人工责任 |
+| --- | --- | --- | --- | --- |
+| 街区级分时客流/OD 聚合 | 识别拥挤等级和设施供需；只保留达到聚合阈值的分区、时段、数量 | 公开统计、现场计数，或经主管单位合法授权且完成 DPIA 的聚合数据；不接入个人连续轨迹 | 试点明细原则上不超过 30 天，聚合统计不超过 90 天；仅交通分析岗和数据保护岗 | 可暂停数据源并删除试点明细；公众可查询用途、提出异议；调度决定由有权人员确认 |
+| 视频事件片段 | 仅用于特定事件复核，不做人脸识别、身份推断或跨场景追踪 | 现有合法系统在事件必要范围内授权；新增接入须单独审批和显著告知 | 事件关闭后 15 个工作日内删除或依法封存；仅事件处置和审计角色 | 支持访问记录审计、纠错和申诉；任何响应等级由指挥员确认 |
+| 联系方式与预约信息 | 完成用户主动预约、反馈或定向联系；仅姓名/别名、选定联系方式、事项和同意记录 | 用户主动提供、明确指定接收方与用途并可撤回；默认不公开 | 事项结束后 30 天删除，法律另有要求除外；仅指定服务人员 | 用户可撤回、修改、删除；提供电话和现场申诉；不得自动拒绝公共服务 |
+| 公众意见与论坛内容 | 汇总规划意见并回复；不采集无关身份、职业、收入或设备标识 | 用户主动提交；公开展示须另行同意并经脱敏 | 原始意见不超过 90 天，结构化议题按公开档案规则留存；版主与审批复核角色 | 支持匿名/线下提交、删除和申诉；采纳与否由审批人员说明理由 |
+| 设备端即时定位 | 仅用于用户主动开启的导览或无障碍路线提示 | 默认关闭；优先设备端计算，不上传、不形成连续轨迹 | 会话结束即清除；服务端无原始位置访问权 | 随时关闭和清除；无智能手机用户使用纸质编号、电话或现场导览 |
+| 企业权属、投资、财务数据 | 项目可行性与三本账辅助分析；只处理项目必要字段 | 企业/权属方授权或依法履职取得，按保密分级接入 | 依项目与法定期限确定；仅授权评审、财务和审计角色 | 支持更正、撤回非必要字段和访问审计；排序只作建议，实施决定由机构确认 |
+| 基础设施与公共安全运行数据 | 形成备选预案；不读取用户业务内容 | 运营主体按职责授权，隔离网络和最小接口 | 原始运行日志建议不超过 90 天，事件材料依法处理；仅值守与审计角色 | 具备熔断、人工接管和回滚；所有调度由有权人员确认并负责 |
+
+明确禁止：未经授权的手机信令或 Wi-Fi 探针接入、个人社交账号抓取、个人信用评分、生物特征识别、连续位置追踪、基于敏感属性的服务差别待遇，以及仅由模型自动作出的公共安全、公共服务、审批、资金或身份决定。
+
+## E.7 连续无障碍与非数字服务检查表
+
+| 检查对象 | 设计目标 | 验证方式 | 线下/应急兜底 |
+| --- | --- | --- | --- |
+| 主脊、支路、门户与过街 | 连续净宽、坡度、路面、缘石坡道、盲道、声光提示和休息点满足适用标准 | 专业审图、现场测量、施工验收及残障人士/老年人真实用户测试 | 标识清晰的绕行路线、现场人员引导和临时安全通道 |
+| 建筑与交通接驳 | 无台阶入口或合规坡道/升降设施，无障碍卫生间与候梯空间可达 | 设备可用性测试、全链路行程测试和定期巡检 | 人工服务入口、故障呼叫和工作人员协助换乘 |
+| 预约、导览、交通与公众参与 | 智能手机不是唯一入口；网页支持键盘和清晰焦点 | 电话、纸质、现场流程桌面演练；残障用户可用性测试 | 服务台代办、电话预约、纸质导览和现场意见登记 |
+| 信息与媒体 | 图片替代文本，视频字幕/文字稿，易读文本，高对比与多感官提示 | 内容抽检、键盘检查、屏幕阅读器与字幕核验 | 人工口述、纸质大字版、触感标识和手语/文字协助 |
+| 申诉纠错与紧急情况 | 每个服务点公开责任主体、申诉渠道和响应时限 | 工单演练、故障演练、年度复查 | 现场人工受理、电话升级、人工接管与非数字疏散方案 |
+
+本检查表只定义设计与验收目标，不宣称现状或方案已经达到“全程无障碍”。后续仍须依据适用标准完成专业审查、真实用户测试和运营期复查。
+
 ---
 
 ## English Summary
 
-Appendix E proposes an unapproved governance baseline: seven principles (data minimisation with special justification beyond a suggested field-count threshold, ≤90-day log retention, two-person operations on personal data, deletion within 15 working days after pilots, semi-annual bias audits with published minutes, mandatory human review for high-impact outputs, and appeal channels per scenario). Scenario-specific boundaries: asset recommendation uses non-identifying rule matching with no behavioural-preference collection (a hypothetical future feature would require a privacy review and a one-click "delete this feature"); vitality sensing is aggregate-only with no demographic profiling and no pre-clearance data feeds; forum moderation is logged with 15-working-day complaint responses; the community agent neither listens to group chats nor builds push profiles, routes high-impact answers to humans, and deletes transcripts after 90 days; and enforcement runs via per-scenario registration forms, a proposed ethics-and-data panel, and public audit minutes.
+Appendix E proposes an unapproved governance baseline. It now includes a conditional sensitive-data matrix covering purpose limitation, minimum fields, lawful source, retention, access roles, withdrawal, deletion, appeal, human responsibility, DPIA and security-testing gates. It explicitly prohibits unauthorized mobile-signalling or Wi-Fi-probe feeds, personal social-account scraping, personal credit scoring, biometric identification, continuous location tracking and automated high-impact decisions. A continuous-accessibility checklist covers physical routes, transport/building links, offline booking and participation, accessible information, onsite assistance, appeals and emergency non-digital fallback. These are design and verification objectives, not claims of completed compliance.

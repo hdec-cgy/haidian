@@ -55,7 +55,9 @@
       ],
       "formula": "public_space_area_sqm / site_area_sqm",
       "confidence": "medium",
-      "assumptions": []
+      "assumptions": [
+        "Calculated against the provisional rough site boundary and a participant design layer; recalculate after official boundary confirmation."
+      ]
     },
     "floor_area_ratio": {
       "status": "unknown",

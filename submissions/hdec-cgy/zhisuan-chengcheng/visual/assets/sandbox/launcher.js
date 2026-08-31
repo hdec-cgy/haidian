@@ -12,6 +12,9 @@
       return false;
     }
     popup.document.open();
+    if (document.documentElement.lang.toLowerCase().indexOf('en') === 0) {
+      source = source.replace('lang="zh-CN"', 'lang="en"').replace('</body>', '<script src="assets/sandbox/sandbox-i18n-en.js"><\\/script></body>');
+    }
     popup.document.write(source);
     popup.document.close();
     return false;

@@ -22,6 +22,11 @@
       else { s.textContent = m[2]; }
       document.body.appendChild(s);
     }
+    if (document.documentElement.lang.toLowerCase().indexOf('en') === 0) {
+      var i18n = document.createElement('script');
+      i18n.src = 'assets/sandbox/sandbox-i18n-en.js';
+      document.body.appendChild(i18n);
+    }
     /* 视口 1180×680，超出宿主列宽时等比缩放 */
     function fit() {
       var wrap = host.parentElement;

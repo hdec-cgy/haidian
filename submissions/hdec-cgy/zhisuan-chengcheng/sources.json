@@ -69,6 +69,27 @@
       "id": "THIRD-PARTY-CASE-MATERIALS",
       "source_type": "external_case_reference_pending_clearance",
       "usage": "Case references and example images appearing in the master proposal are background inspiration only. Exact original source, licence and attribution must be confirmed before public release."
+    },
+    {
+      "id": "DATA-SRC-GENERATIVE-AI-INTERIM-MEASURES",
+      "path": "brief/site-package/standards/references/generative-ai-interim-measures.md",
+      "url": "https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
+      "source_type": "official_public_local_snapshot",
+      "usage": "Formal AI-governance baseline for complaint channels, human responsibility and conditional security-assessment language. It is not used as proof that any filing, assessment or legal-compliance process has already been completed."
+    },
+    {
+      "id": "DATA-SRC-BARRIER-FREE-ENVIRONMENT-LAW",
+      "path": "brief/site-package/standards/references/barrier-free-environment-law.md",
+      "url": "https://www.gov.cn/yaowen/liebiao/202306/content_6888910.htm",
+      "source_type": "official_public_local_snapshot",
+      "usage": "Formal accessibility baseline. The proposal treats accessibility as a design and verification objective and does not infer that existing or proposed facilities have already achieved legal compliance."
+    },
+    {
+      "id": "DATA-SRC-ELDERLY-SMART-TECH-PLAN-2020-45",
+      "path": "data/source_registry.json",
+      "url": "https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm",
+      "source_type": "official_public_background_only",
+      "usage": "Background support for retaining telephone, paper, onsite and other non-smartphone service channels. It is not used to claim implementation or compliance by a specific operator."
     }
   ]
 }

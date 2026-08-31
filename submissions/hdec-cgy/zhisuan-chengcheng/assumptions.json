@@ -38,6 +38,24 @@
       "impact": "The rebuilt package remains community-display-only and cannot be declared fully cleared for public release until the rights statement is completed."
     },
     {
+      "id": "A-CAUSAL-001",
+      "status": "candidate_mechanisms_only",
+      "statement": "The proposal's mechanism chains are hypotheses derived from public evidence and design reasoning; no experimental or quasi-experimental identification design has yet estimated causal effects.",
+      "impact": "Arrows and intervention priorities are not proven causal conclusions. A real pilot requires preregistered treatment/comparison groups, confounder controls, identification assumptions, uncertainty reporting and robustness tests."
+    },
+    {
+      "id": "A-ACCESSIBILITY-001",
+      "status": "pending_professional_and_user_validation",
+      "statement": "Continuous accessible routes, information accessibility and offline service channels are design objectives rather than verified existing or completed conditions.",
+      "impact": "Detailed design review, field measurement, construction acceptance and testing with disabled and older users are required before claiming compliance. Staffed and non-digital fallback must remain available."
+    },
+    {
+      "id": "A-DATA-GOVERNANCE-001",
+      "status": "conditional_no_sensitive_data_access_assumed",
+      "statement": "The proposal does not assume current access to mobile signalling, Wi-Fi probes, personal social accounts, continuous location, contacts, video or other sensitive data.",
+      "impact": "Any real pilot using sensitive or personal data requires a lawful source, minimum-necessary field set, retention/access controls, withdrawal/deletion/appeal mechanisms, a data-protection impact assessment, security testing and accountable human decisions."
+    },
+    {
       "id": "A-IDENTITY-001",
       "status": "resolved",
       "statement": "The final submitting entity is 中国电建华东勘测设计研究院-城市规划研究院-京张AI创新带AI投标项目组 (GitHub: @hdec-cgy); contact via the GitHub account hdec-cgy.",

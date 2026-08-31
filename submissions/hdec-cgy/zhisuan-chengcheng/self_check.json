@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "submission_dir": "submissions\\hdec-cgy\\zhisuan-chengcheng",
+  "submission_dir": "submissions/hdec-cgy/zhisuan-chengcheng",
   "pr_author": "hdec-cgy",
   "stage": "formal",
   "deterministic_validation": {
@@ -221,6 +221,7 @@
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/embed.js",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/launcher.js",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/sandbox-document.js",
+        "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/sandbox-i18n-en.js",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/styles-embed.css",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/styles.css",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/vendor/images/layers-2x.png",
@@ -236,7 +237,7 @@
       "ai_package_stages": {
         "submissions/hdec-cgy/zhisuan-chengcheng": "formal"
       },
-      "total_bytes": 40506611,
+      "total_bytes": 40485975,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -308,15 +309,15 @@
       "ok": true,
       "issues": [],
       "summary": {
-        "standard_matrix_items": 6,
+        "standard_matrix_items": 7,
         "design_depth_items": 15,
         "known_metric_refs_required": 9,
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
           "source": 5,
-          "standard": 4,
-          "depth": 13,
+          "standard": 5,
+          "depth": 12,
           "data": 10,
           "metric": 3
         }

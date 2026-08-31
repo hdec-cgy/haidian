@@ -262,6 +262,40 @@
       "evidence_summary_zh": "本条标准响应通过 proposal.md 正文引用、A3/A0 图纸、GeoJSON 图层、metrics.json 指标和自检项共同证明。"
     },
     {
+      "standard_id": "BARRIER-FREE-ENVIRONMENT-LAW",
+      "requirement_zh": "无障碍环境建设应覆盖设施、信息交流与社会服务；本方案将连续路径、可访问内容、现场人工服务和非数字兜底作为待专业审查与真实用户测试的设计目标。",
+      "professional_dimension": "无障碍与包容性设计",
+      "mandatory": true,
+      "review_status": "addressed",
+      "proposal_sections": [
+        "交通、轨道、市政与公共服务设施",
+        "风险、版权与合规说明"
+      ],
+      "drawing_refs": [
+        "drawings/a3-booklet.pdf",
+        "drawings/a0-boards.pdf"
+      ],
+      "geometry_refs": [
+        "geometry/roads.geojson",
+        "geometry/public_space.geojson",
+        "geometry/key_areas.geojson"
+      ],
+      "metric_refs": [
+        "public_space_ratio"
+      ],
+      "source_ids": [
+        "DATA-SRC-BARRIER-FREE-ENVIRONMENT-LAW",
+        "DATA-SRC-ELDERLY-SMART-TECH-PLAN-2020-45"
+      ],
+      "assumption_ids": [
+        "A-ACCESSIBILITY-001"
+      ],
+      "self_check_ids": [
+        "VISUAL_STATIC"
+      ],
+      "evidence_summary_zh": "正文和附录 E 提供连续无障碍路径检查表、可访问内容要求、人工服务、申诉纠错和紧急非数字兜底；结论保持为待核验设计目标。"
+    },
+    {
       "standard_id": "MOHURD-ARCH-DESIGN-DEPTH-2016",
       "requirement_zh": "建筑专业深度规定待取得官方文件后启用；当前仅作为缺资料清单和深化提醒。",
       "professional_dimension": "建筑深度",
