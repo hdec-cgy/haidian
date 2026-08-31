@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Compute Catalysis: Jingzhang's Second Autonomy through AI-Native Planning | Centennial Jingzhang AI Innovation Belt</title>
 <link rel="stylesheet" href="assets/vendor/leaflet.css"/>
+<link rel="stylesheet" href="assets/cjk-font.css"/>
 <script src="assets/vendor/leaflet.js"></script>
 <style>
 :root{--navy:#0b1f3a;--navy2:#122b4d;--gold:#c9a24b;--gold-l:#e6c67a;--ink:#1f2a30;--sub:#5b6b72;--line:#e2e8ec;}
@@ -974,15 +975,15 @@ figure.aerial-figure figcaption{padding:9px 12px;color:#607382;font-size:12px;ba
 <main>
   <section class="hero">
     <h1>Problem Identification: AI S&T Resources Cluster<br>Yet Facilities Still Hover at "Basic Coverage"</h1>
-    <p class="summary">The Jingzhang AI Innovation Belt clusters <b>535</b> university/department points and <b>556</b> AI enterprises, yet the current public service facilities still fall back on the residential "basic coverage" logic. Placing talent, enterprises, and basic living facilities in the same spatial context makes the core problem clear: the intensity of innovation-resource clustering has already exceeded the carrying mode of the current facilities system.</p>
+    <p class="summary">Exploratory point layers suggest university-research and technology-enterprise clusters along the corridor, but they are not item-by-item verified and do not support count, density or ranking claims. Existing public services remain oriented to basic residential provision.</p>
     <div class="hero-badges">
       <span>Problem identification</span><span>University points</span><span>AI enterprise POIs</span><span>Resource–facility mismatch</span>
     </div>
-    <p class="hero-note"><b>535</b> university points · <b>556</b> AI enterprise POIs · current public service facilities mainly at "basic coverage"</p>
+    <p class="hero-note">Exploratory university and enterprise point layers · qualitative spatial-pattern reading only</p>
   </section>
 
   <div class="toc">
-    <a href="#p1-sec-1">S&T resource clustering vs. facility mismatch<small>535 universities · 556 AI enterprises</small></a>
+    <a href="#p1-sec-1">S&amp;T resource clustering vs. facility mismatch<small>Exploratory spatial patterns</small></a>
     <a href="#p1-sec-map">Spatial overview map<small>Universities and AI enterprises overlaid</small></a>
     <a href="#p1-sec-2">Current public facilities review<small>298 basic-coverage sites and six gaps</small></a>
   </div>
@@ -992,11 +993,11 @@ figure.aerial-figure figcaption{padding:9px 12px;color:#607382;font-size:12px;ba
     <h2>The Problem: AI S&T Resources Cluster, Yet the Facilities System Still Hovers at "Basic Coverage"</h2>
     <p class="lead">Overlay "people's points" with "facilities' points" on the same map, and the mismatch is obvious: wherever resources cluster at extreme speed, facilities still remain absent.</p>
 
-    <h3>Where resources are: 535 university/department points + 556 AI enterprises</h3>
+    <h3>Where resources are: university research and technology-enterprise clusters</h3>
     <p>S&T resources within the innovation belt cluster heavily, forming a spatial bipolar pattern of "northern talent source, southern industry agglomeration"<span class="ev ev-infer">Inference</span>:</p>
     <ul>
-      <li><strong>535 university points</strong><span class="ev ev-data">Data</span>: with Tsinghua University (400+ departments / buildings) as the talent source, overlaid with Beijing Forestry University, China University of Mining and Technology (Beijing), Peking University Health Science Center, University of Science and Technology Beijing, and others, forming the nation's densest AI-talent supply end.</li>
-      <li><strong>556 AI enterprises</strong><span class="ev ev-data">Data</span>: Wudaokou's 128 stand out far ahead — several times the second-tier business districts — as the core engine of industry agglomeration.</li>
+      <li><strong>University research resources</strong>: the exploratory layer suggests a northern talent and research interface.</li>
+      <li><strong>Technology-enterprise resources</strong>: the exploratory layer suggests enterprise-service and translation nodes in the central and southern sections.</li>
       <li><strong>The "corridor" in between</strong>: between the northern talent and southern industry lies a multi-kilometer commuting and collaboration corridor — where facilities should have expanded, but did not keep up.</li>
     </ul>
 
@@ -1013,7 +1014,7 @@ figure.aerial-figure figcaption{padding:9px 12px;color:#607382;font-size:12px;ba
     <div class="map-head">
       <div>
         <div class="map-title">Spatial overview: university and AI enterprise resource clustering</div>
-        <div class="map-sub">By default, plots the raw points of 535 universities + 556 AI enterprises; switch resource layers in the top-right panel.</div>
+        <div class="map-sub">The default map shows exploratory point layers for spatial-pattern reading only; switch layers in the top-right panel.</div>
       </div>
     </div>
     <div id="p1-map"></div>
@@ -1266,17 +1267,17 @@ const P1DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"H
       <div class="ph"><span class="tag">Problem 3</span><h3>Courtyard Walls Overlaid with Administrative Boundaries, Dispersing Renewal Actors</h3></div>
       <p>Low-efficiency land renewal is not only a spatial issue but a governance issue. The corridor is cut layer by layer by two kinds of boundaries:</p>
       <ul>
-        <li><b>Wall boundary:</b> of the 18 research institutes and universities, <b>72% back onto the park</b>, facing the corridor with closed walls; facilities are unshared and the interface is unfriendly, shutting the high-value green corridor "out the door".</li>
+        <li><b>Institutional boundaries:</b> visual and field review suggests that some campuses present closed edges to the park corridor; the extent requires onsite verification.</li>
         <li><b>Administrative boundary:</b> the corridor spans <b>7 sub-districts</b>, each acting on its own, making it hard to form a unified urban-renewal and public-space operating entity; cross-district project coordination and benefit integration are costly.</li>
       </ul>
       <div class="kpi">
-        <div class="box"><div class="num">18</div><div class="lab">Research institutes/universities, 72% backing onto the park</div></div>
+        <div class="box"><div class="num">Verify</div><div class="lab">Campus-edge relationship to parks</div></div>
         <div class="box"><div class="num">7</div><div class="lab">Sub-district administrative boundaries</div></div>
         <div class="box"><div class="num">Walls</div><div class="lab">Enclosed frontage blocking accessibility and sharing</div></div>
       </div>
       <div class="figure">
         <img src="../assets/figures/fig_edu_research.en.svg" alt="Distribution of educational and research land and campus boundaries">
-        <div class="cap"><b>Figure 3 · Distribution of educational and research land and campus boundaries.</b> 45% of the corridor is educational/research land; 72% of the 18 research institutes and universities back onto the park, facing the corridor with walls and fences, causing spatial enclosure and dispersed renewal actors.</div>
+        <div class="cap"><b>Figure 3 · Educational and research land and campus boundaries.</b> The diagram indicates some wall and fence interfaces; exact shares and extents require official land data and onsite verification.</div>
       </div>
     </div>
   </section>
@@ -1286,12 +1287,12 @@ const P1DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"H
       <div class="ph"><span class="tag">Problem 4</span><h3>Missing Public Space and Ecological Network</h3></div>
       <p>Even after the corridor is released as a green belt, its "publicness" and "ecologicalness" are still not fully realized:</p>
       <ul>
-        <li>Open space is divided by various interfaces, with <b>75% being negative space</b>;</li>
+        <li>Open space is divided by interfaces, and some areas show low activity or weak access;</li>
         <li>Green space is <b>scattered in points</b>, not forming a continuous green network, so the ecological-corridor effect is hard to realize;</li>
         <li>Contiguous nurseries/parks lack linkage and design coordination, so ecological value and public vitality are not fully released.</li>
       </ul>
       <div class="kpi">
-        <div class="box"><div class="num">75%</div><div class="lab">Open space is negative space</div></div>
+        <div class="box"><div class="num">Verify</div><div class="lab">Open-space activity and access</div></div>
         <div class="box"><div class="num">22</div><div class="lab">Open-space segments (mostly negative, proposal estimate)</div></div>
         <div class="box"><div class="num">Point-scattered</div><div class="lab">Green space not yet a continuous network</div></div>
       </div>
@@ -1333,13 +1334,13 @@ const P1DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"H
         <tr>
           <td><b>Problem 3<br>Dispersed actors</b></td>
           <td>Cross-rail accessibility (sharing dimension)</td>
-          <td>Share of campus backing onto the park 72% (of 18); number of cross-sub-district coordination units (7 sub-districts); length of wall-blocking frontage</td>
+          <td>Campus orientation, cross-actor coordination and barrier-interface length</td>
           <td>Campus openness data + sub-district boundaries + multi-actor co-governance entry</td>
         </tr>
         <tr>
           <td><b>Problem 4<br>Missing public ecology</b></td>
           <td>Renewal-potential index (quality dimension)</td>
-          <td>Negative-space ratio 75% (22 open-space segments); green-network connectivity (point-scattered vs. continuous-network gap)</td>
+          <td>Open-space activity and green-network connectivity</td>
           <td>Open-space / green-space vectors + ecological-network gap visualization</td>
         </tr>
       </tbody>
@@ -2359,7 +2360,7 @@ const P1DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"H
     <div class="map-head">
       <div>
         <div class="map-title">Spatial overview: continuous-spectrum facilities and AI infrastructure</div>
-        <div class="map-sub">By default, plots the raw points of 535 universities + 556 AI enterprises; switch facilities (S/M/H/L) and infrastructure (hubs/edge nodes) layers in the top-right panel.</div>
+        <div class="map-sub">The default view shows exploratory university and enterprise points for spatial-pattern reading only; facility and infrastructure layers can be switched.</div>
       </div>
     </div>
     <div id="c41-map"></div>
@@ -2455,8 +2456,7 @@ const P1DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"H
     <table class="proposal-table">
       <thead><tr><th>Category</th><th>Content</th><th>Source / caliber</th></tr></thead>
       <tbody>
-        <tr><td>University points 535</td><td>Tsinghua 400+ departments / buildings + Beijing Forestry Univ. + China Univ. of Mining (Beijing) + Peking Univ. Health Science Center + USTB, etc.</td><td>amap POI, 2026-08 crawl, WGS84</td></tr>
-        <tr><td>AI enterprise POI 556</td><td>Wudaokou's 128 stand far ahead; only 58 high-relevance AI entities</td><td>amap POI, scraped 2026-08, statistical caliber not item-by-item verified</td></tr>
+        <tr><td>University-research and technology-enterprise points</td><td>Exploratory distribution layers used only to demonstrate spatial patterns</td><td>Not item-by-item verified; no count, density or ranking claim</td></tr>
         <tr><td>Basic-coverage facilities 298</td><td>Public-service facilities ledger measured per residential planning-standard values</td><td>Regulatory-value baseline</td></tr>
         <tr><td>P<sub>ai</sub> ≈ 60,000</td><td>AI innovation population (range 40,000–80,000)</td><td>Derived value</td></tr>
         <tr><td>3.0 m² per capita / 8 states</td><td>Solitude 0.3 / encounter 0.2 / co-presence 0.4 / exchange 0.5 / collaboration 0.8 / display 0.3 / community 0.3 / urban public life 0.2</td><td>Case value</td></tr>
@@ -2478,7 +2478,7 @@ const P1DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"H
       </div>
       <div class="f-col">
         <h4>Key figures</h4>
-        <p>535 universities · 556 AI enterprises · 150 S / 50 M / 3 H / 3 L · 3 hubs + 12 edge nodes</p>
+        <p>Exploratory university and enterprise points · S/M/H/L spectrum · conceptual hub-and-edge network</p>
       </div>
       <div class="f-col">
         <h4>Data caliber</h4>
@@ -4674,7 +4674,7 @@ const C41DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"
 <p>Conduct 3D laser scanning and oblique photography of heritage buildings/structures, establishing BIM/CIM-grade digital archives to form a queryable, comparable, updatable Jingzhang-culture digital twin:</p>
 <ul>
 <li><strong>Data layer</strong>: integrate multi-source data such as historical maps, old photos, engineering drawings, structural-monitoring data, oral-history audio-video, and cultural-creative product information;</li>
-<li><strong>Model layer</strong>: build 3D models of heritage entities, historical-scene restoration models, and surrounding-environment models, supporting multi-time-section switching of 1909/1960/2008/current;</li>
+<li><strong>Model layer</strong>: build 3D models of heritage assets, historical scenes and surrounding contexts; publish historical states only after verification against authoritative records;</li>
 <li><strong>Knowledge-graph layer</strong>: with people, events, places, technology, and objects as nodes, build the Jingzhang Railway knowledge graph, supporting semantic retrieval and association recommendation;</li>
 <li><strong>Open-interface layer</strong>: open standard APIs to museums, education platforms, cultural-creative developers, and urban-governance systems, promoting secondary development and cross-sector application.</li>
 </ul>
@@ -4686,7 +4686,7 @@ const C41DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"
 <li>Sun Yat-sen's 1912 inspection of the Jingzhang Railway;</li>
 <li>The 1949 "going to the capital for exams" special train arriving at Qinghuayuan Station;</li>
 <li>The 1960 railway rerouting and Qinghuayuan Station relocation;</li>
-<li>The 2008 Jingzhang HSR going underground and Qinghe Station opening;</li>
+<li>Railway-facility transition points verified against authoritative historical records;</li>
 <li><strong>Trigger methods</strong>: scanning the station-house facade, platform base, or specific public art with a phone overlays historical imagery and 3D reconstruction; inside the museum, VR headsets enter immersive carriage and construction-site scenes;</li>
 <li><strong>Content-production pipeline</strong>: the AI historical-narrative engine generates scripts, storyboards, and multilingual narration from archival materials, combined with manual review to ensure historical accuracy;</li>
 <li><strong>Intergenerational interaction</strong>: youth can add digital annotations to the historical scenes elders recount through AR tools, forming family memory albums.</li>
@@ -4721,7 +4721,7 @@ const C41DATA = {"uni":[{"n":"北京林业大学","u":"北京林业大学","d":"
 <p><strong>Spatial placement</strong>: the railway-relic museum cluster at the Qinghuayuan Station node or Xizhimen node.</p>
 <p><strong>Smart experience</strong>:<br />
 1. <strong>Booking and themed guidance</strong>: visitors choose the engineering-history line, patriotic-education line, or AI-innovation line, with the system allocating time slots by foot traffic and relic carrying capacity;<br />
-2. <strong>Digital-twin exhibition</strong>: the indoor museum shows the full Jingzhang Railway line and key technology through immersive cinema and 3D models; the outdoor scene-restoration area overlays 1910/1960/2008 station-house historical imagery via AR;<br />
+2. <strong>Digital-twin interpretation</strong>: indoor displays present verified railway technologies and spatial change; outdoor AR uses only archival material checked against authoritative records;<br />
 3. <strong>Interactive check-in</strong>: the train-exhibition area offers VR driving, carriage viewing, cultural-creative dining, and commemorative stamps;<br />
 4. <strong>Co-creation entry</strong>: visitors can upload "Jingzhang memory" or creative content, entering the digital archive or public-art wall after review.</p>
 <p><strong>Data and privacy boundary</strong>: only process booking information, study-tour feedback, and authorized-shared imagery; no personal biometrics or trajectories collected.</p>

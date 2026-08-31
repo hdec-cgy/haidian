@@ -49,27 +49,15 @@
       "usage": "The user-provided Chinese master proposal `京张AI创新带-方案合稿.md` is the sole narrative and strategy source for this rebuilt package. It defines the title, one-core/three-zone/two-wing structure, five problem diagnoses, five strategies, four application loops, scenarios, phasing and communication language. An archival copy is preserved as `report/narrative.md`, synchronized with the claim-caliber downgrades recorded in appendix-f. Public-release and competition-submission rights confirmed by the submitting entity (@hdec-cgy) on 2026-08-31; per-asset ledger in assets/media/appendix-g-rights-inventory.md."
     },
     {
-      "id": "BEIJING-COMPUTE-INFRA-2024-2027",
-      "url": "https://jxj.beijing.gov.cn/zwgk/2024zcwj/202404/t20240425_3631820.html",
-      "source_type": "official_public",
-      "usage": "Policy context for the proposal's compute-infrastructure direction; exact quantitative claims require line-by-line verification before formal citation."
-    },
-    {
-      "id": "NDRC-GREEN-DATACENTER-2024",
-      "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202407/t20240723_1391964.html",
-      "source_type": "official_public",
-      "usage": "Background policy reference for green and low-carbon data-centre design; not treated as proof of site-specific engineering feasibility."
-    },
-    {
       "id": "USER-SPATIAL-AND-POI-DATA",
       "source_type": "user_provided_statistical_citation",
-      "usage": "Supports the proposal's evidence-graph narrative and provisional spatial diagnosis. Acquisition caliber: Amap public POI interface, scraped 2026-08, WGS84; raw point tables ARE attached for audit: visual/assets/sandbox/data/university-data.js (535 university/institution points, WGS84 GeoJSON, name+coordinate dedup) and visual/assets/sandbox/data/tech-poi-data.js (1,171 tech POI points, of which the 556-count follows the AI-relevance classification rule recorded in appendix-f F1a). Used as statistical caliber only for relative-density comparison, not item-by-item verified and not bulk-redistributed. Derived figures are labelled as design evidence with explicit grades in assets/media/appendix-f-claims-audit.md, not statutory facts."
+      "usage": "Exploratory local point layers used only to demonstrate interface behaviour and qualitative spatial-pattern reading. They are not item-by-item verified, are not a formal statistical baseline, and no counts or absolute density comparisons derived from them are used as formal conclusions."
     },
     {
       "id": "OPENSTREETMAP-BASEMAP",
       "source_type": "open_data_odbl",
       "url": "https://www.openstreetmap.org/copyright",
-      "usage": "Offline frozen snapshot (osm-202608) of OpenStreetMap data localised into visual/assets/sandbox/data/; (c) OpenStreetMap contributors, ODbL 1.0, attribution shown in the sandbox UI; derived measurements (road density, breakpoints) are team-calculated on this snapshot with calibers in appendix-f."
+      "usage": "Offline frozen snapshot (osm-202608) of OpenStreetMap data localised into visual/assets/sandbox/data/; (c) OpenStreetMap contributors, ODbL 1.0, attribution shown in the sandbox UI. It supports qualitative map context only; unreproducible road-density and breakpoint values are excluded from formal conclusions."
     },
     {
       "id": "LEAFLET-RUNTIME",
@@ -95,13 +83,6 @@
       "url": "https://www.gov.cn/yaowen/liebiao/202306/content_6888910.htm",
       "source_type": "official_public_local_snapshot",
       "usage": "Formal accessibility baseline. The proposal treats accessibility as a design and verification objective and does not infer that existing or proposed facilities have already achieved legal compliance."
-    },
-    {
-      "id": "DATA-SRC-ELDERLY-SMART-TECH-PLAN-2020-45",
-      "path": "data/source_registry.json",
-      "url": "https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm",
-      "source_type": "official_public_background_only",
-      "usage": "Background support for retaining telephone, paper, onsite and other non-smartphone service channels. It is not used to claim implementation or compliance by a specific operator."
     }
   ]
 }

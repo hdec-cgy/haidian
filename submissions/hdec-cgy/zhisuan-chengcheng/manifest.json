@@ -38,7 +38,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "6484bf5bdd88c28111d98cef43d2f492b64b3b74f665d869ef84ab2bdceeddc1"
+      "sha256": "2cf80546fbd793994ec62d246a85d1968b1ab00905ff421418f9040f53efb281"
     },
     {
       "path": "agent.json",
@@ -56,19 +56,19 @@
       "path": "assumptions.json",
       "role": "assumptions",
       "required": true,
-      "sha256": "7182794811decd48e9a91d2100a9e7b3eae3039cc325081d4488578af06f852b"
+      "sha256": "87dba5c25f5db63d1f8ac27d7ac873400c783c845258dfb4fb291a398cc876da"
     },
     {
       "path": "sources.json",
       "role": "sources",
       "required": true,
-      "sha256": "8c577bdbf97904a85d6b1adf87a94db9d55c25fa8bee16cbe2d8b45f9019110c"
+      "sha256": "b1c93b364652293a42ce1d3f4b1935f2a722243a82c9f54de2ef729bc9584b53"
     },
     {
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "e607aa5eb349b55e9b32f7fa658fd07ea035a2966106268eaf0d48462eadaa75"
+      "sha256": "c68794e7885b1d4814f99f5050af28f2a1765371c9f8b64aedb77e973b8bc8c7"
     },
     {
       "path": "compliance_matrix.json",
@@ -93,13 +93,13 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "e00a0913355486afbe812bc165ebf86259b6607499a267e3eecb328956c5637e"
+      "sha256": "6df28d2bbe736aaa22c8914beafb7c500e47b494317a142b89d2bdf102129b37"
     },
     {
       "path": "report/narrative.md",
       "role": "narrative",
       "required": false,
-      "sha256": "9eb2a84f3f3064a444cf370b4fc008665452f71cf16cc153a11c9634dfdcb9ee"
+      "sha256": "e00b6f2172632e2e62b8a2f9b1f4c4bd0c1cbd0cf730ff67ec50e4ef55dd4046"
     },
     {
       "path": "report/copyright_statement.md",
@@ -126,7 +126,7 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "f759dcf9d63b7a17713f480982446d51d1ce7a4f587b15d5889fa98397811fbc"
+      "sha256": "535c9b3cb308e0bf8199e97898df6722f600ee794cd297a8555f3b2297f0b741"
     },
     {
       "path": "assets/figures/key-areas.png",
@@ -223,7 +223,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "b25df1680bbe58ae871be9f0f156b85d138b7eb07e2f1f458476e26eefc50bee"
+      "sha256": "82a1ab71433b12442dbe4758a2b8c7a8844785416e4825616e57f80de8d1a3f8"
     },
     {
       "path": "report/proposal.en.html",
@@ -231,7 +231,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "3080e666f777eea7a351392aa5601d154f96c071e586923f4fdac4522cc2ba5e"
+      "sha256": "890c6f57c08588a8ae1a90412f09447f55ddc1a4337486ef50cb4724397010e5"
     },
     {
       "path": "visual/index.en.html",
@@ -239,7 +239,7 @@
       "required": true,
       "language": "en",
       "translation_of": "visual/index.html",
-      "sha256": "dc0a6966873ee54c3f66bb4dfc260fe526657cc3955f01232cc84f8bb420d227"
+      "sha256": "5de92e8448e2415f1e1330b530cd068d64eb481a9ec7f9cd8c2ce0f7186f0e1b"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -1269,7 +1269,7 @@
       "required": false,
       "language": "zh",
       "title_zh": "B 品牌与视觉识别方向（命名/母标/色彩/字体/子品牌/禁用）",
-      "sha256": "c4d6338aa800586441eb9a7bec162432ccdb4a10187eed025c3dcdcffcc4d872"
+      "sha256": "d8da3ae284381a46b1bf7abe1f6e4fa6786c6537bfb99fd1cbcbeaefac97c988"
     },
     {
       "path": "assets/media/appendix-c-regional-collaboration.md",
@@ -1301,7 +1301,7 @@
       "required": false,
       "language": "zh",
       "title_zh": "F 定量与事实主张审计表（F1—F16）",
-      "sha256": "3806aa7bbad8b247a7bd417d98d89084e094a168e9b2f604923f7685004adcfd"
+      "sha256": "fed7e93383fc2ef6e18967ae49d1a5b4c0d6411c3f4a2f95e86387b71e19541c"
     },
     {
       "path": "assets/media/appendix-g-rights-inventory.md",
@@ -1309,7 +1309,7 @@
       "required": false,
       "language": "zh",
       "title_zh": "G 权利清单（A-RIGHTS-001逐项清权）",
-      "sha256": "212c7dae95142b894c3f7ee0863f99f763d661cfbbb81e9b809064b688e52eda"
+      "sha256": "459b6978d67a046dd1fcfdc95a94c0398b74416f8d4a3018f54e88719bf0e1a9"
     }
   ],
   "validation_claim": {

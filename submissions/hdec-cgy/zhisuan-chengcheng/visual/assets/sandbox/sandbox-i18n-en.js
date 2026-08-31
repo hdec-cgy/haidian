@@ -1,11 +1,43 @@
 (function () {
   'use strict';
   var exact = {
-    '京张 AI 原生城市设计沙盘':'Jingzhang AI-Native Urban Design Sandbox','当前情景':'Current scenario','基准情景':'Baseline','人才集聚':'Talent concentration','开放共享':'Open sharing','AI 高增长':'High AI growth','低碳协同':'Low-carbon coordination','人才与共享设施':'Talent & shared facilities','创新交互与慢行':'Innovation, interaction & active travel','算力—能碳情景':'Compute–energy–carbon scenario','科创企业分布':'Technology enterprise distribution','◫ 情景对比':'◫ Compare scenarios','▶ 自动推演':'▶ Auto simulation','调整人群结构与开放策略，观察公共设施供需和空间选址的响应。':'Adjust population and access policies to observe facility supply-demand and spatial responses.','参数正在驱动空间变化':'Parameters are driving spatial change','提高共享比例可释放既有空间，减少新增建设需求。':'A higher sharing ratio releases existing space and reduces new-build demand.','综合':'Overview','热力':'Heatmap','网络':'Network','节点':'Nodes','实时推演':'Live simulation','已同步':'Synchronized','众智园 AI 自主创新加速区':'Zhongzhiyuan AI Innovation Accelerator','北京 AI 原点社区':'Beijing AI Origin Community','大钟寺 AI 产业聚集区':'Dazhongsi AI Industry Cluster','北部':'North','中部':'Central','南部':'South','底图':'Basemap','深色':'Dark','浅色':'Light','极简':'Minimal','灰阶':'Grayscale','标准':'Standard','图层控制':'Layer control','统筹研究范围':'Coordinated study area','总体设计范围':'Overall design area','重点区域 3 处':'Three key areas','数据采集 bbox':'Data collection bbox','OSM 交叉核验点':'OSM cross-check points','快速路 / 主干路':'Expressway / arterial','次干路 / 支路':'Secondary / local roads','轨交 / 铁路':'Metro / railway','河流 / 水系':'Rivers / water','绿地 / 公园':'Green space / parks','科技企业 POI':'Technology-enterprise POIs','高置信（556）':'High confidence (556)','全部（1171）':'All (1171)','高校点位（515）':'Universities (515)','正在载入本地 OSM 矢量图层…':'Loading bundled OSM vectors…','服务覆盖':'Service coverage','设施缺口':'Facility gap','推荐联系':'Recommended links','核心 AI':'Core AI','AI 相关':'AI-related','一般科技':'General technology','待判定':'Unclassified','高校及高等教育机构':'Universities and higher education','高校集群':'University clusters','地图要素':'Map features','推演结果':'Simulation results','模型已同步':'Model synchronized','设施供需变化':'Facility supply-demand change','需求与有效供给':'Demand and effective supply','↗ 动态':'↗ Live','AI 设计建议':'AI design recommendation','实时生成':'Generated live','空间响应已更新':'Spatial response updated','共享设施有效供给随参数同步变化':'Effective shared-facility supply changes with parameters','基准情景 / 当前方案':'Baseline / current proposal','参数变化如何转译为空间响应':'How parameter changes translate into spatial responses','返回沙盘':'Back to sandbox'
+    '京张 AI 原生城市设计沙盘': 'Jingzhang AI-Native Urban Design Sandbox',
+    '当前情景': 'Current scenario', '基准情景': 'Baseline',
+    '人才集聚': 'Talent concentration', '开放共享': 'Open sharing',
+    'AI 高增长': 'High AI growth', '低碳协同': 'Low-carbon coordination',
+    '科创企业分布': 'Technology-enterprise distribution',
+    '情景对比': 'Compare scenarios', '自动推演': 'Auto simulation',
+    '综合': 'Overview', '热力': 'Heatmap', '网络': 'Network', '节点': 'Nodes',
+    '实时推演': 'Live simulation', '已同步': 'Synchronized',
+    '图层控制': 'Layer control', '统筹研究范围': 'Coordinated study area',
+    '总体设计范围': 'Overall design area', '重点区域 3 处': 'Three key areas',
+    '快速路 / 主干路': 'Expressway / arterial', '次干路 / 支路': 'Secondary / local roads',
+    '轨交 / 铁路': 'Metro / railway', '河流 / 水系': 'Rivers / water',
+    '绿地 / 公园': 'Green space / parks', '科技企业 POI': 'Technology-enterprise POIs',
+    '全部探索样本': 'All exploratory samples', '高置信样本': 'High-confidence sample',
+    '高校探索点位': 'Exploratory university points',
+    '探索性空间模式': 'Exploratory spatial patterns',
+    '点位仅用于展示筛选、分类与空间聚集趋势；未经逐项核验，不显示数量、密度、排名或正式统计结论。': 'Points demonstrate filtering, classification and clustering patterns only. They are not item-by-item verified and do not present counts, densities, rankings or formal statistics.',
+    '返回沙盘': 'Back to sandbox'
   };
-  var partial = [['覆盖率 ','Coverage '],['缺口 ','Gap '],['图层 ','Layers '],['节点 ','Nodes '],['响应 ','Response '],['建议面积','Suggested area'],['覆盖改善','Coverage improvement']];
-  function translate(value) { var key=value.trim(); if(!key) return value; var out=exact[key]||key; partial.forEach(function(pair){out=out.replace(pair[0],pair[1]);}); return value.replace(key,out); }
-  function visit(root) { if(!root)return; if(root.nodeType===3){root.nodeValue=translate(root.nodeValue);return;} if(root.nodeType!==1&&root.nodeType!==9&&root.nodeType!==11)return; if(root.nodeType===1)['title','aria-label','placeholder'].forEach(function(name){if(root.hasAttribute(name))root.setAttribute(name,translate(root.getAttribute(name)));}); Array.prototype.forEach.call(root.childNodes,visit); }
-  document.documentElement.lang='en'; visit(document.getElementById('jzSandboxEmbed')||document.body);
-  new MutationObserver(function(records){records.forEach(function(record){if(record.type==='characterData')visit(record.target);Array.prototype.forEach.call(record.addedNodes,visit);});}).observe(document.getElementById('jzSandboxEmbed')||document.body,{subtree:true,childList:true,characterData:true});
+  var partial = [['覆盖率 ', 'Coverage '], ['缺口 ', 'Gap '], ['图层 ', 'Layers '], ['节点 ', 'Nodes '], ['响应 ', 'Response '], ['建议面积', 'Suggested area'], ['覆盖改善', 'Coverage improvement']];
+  function translate(value) {
+    var key = value.trim();
+    if (!key) return value;
+    var out = exact[key] || key;
+    partial.forEach(function (pair) { out = out.replace(pair[0], pair[1]); });
+    return value.replace(key, out);
+  }
+  function visit(root) {
+    if (!root) return;
+    if (root.nodeType === 3) { root.nodeValue = translate(root.nodeValue); return; }
+    if (root.nodeType !== 1 && root.nodeType !== 9 && root.nodeType !== 11) return;
+    if (root.nodeType === 1) ['title', 'aria-label', 'placeholder'].forEach(function (name) {
+      if (root.hasAttribute(name)) root.setAttribute(name, translate(root.getAttribute(name)));
+    });
+    Array.prototype.forEach.call(root.childNodes, visit);
+  }
+  function apply() { visit(document.body); }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', apply); else apply();
+  new MutationObserver(function (records) { records.forEach(function (record) { Array.prototype.forEach.call(record.addedNodes || [], visit); }); }).observe(document.documentElement, { childList: true, subtree: true });
 }());

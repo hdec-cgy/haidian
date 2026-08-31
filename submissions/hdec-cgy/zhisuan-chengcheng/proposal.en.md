@@ -230,7 +230,7 @@ The competition targets complex urban zones along the Jing-Zhang Railway-cluster
 > Leveraging the 100-year Jing-Zhang Railway history as a triple attribute (AI Generation Science Corridor, Cultural Corridor, Resilience Channel), the innovation belt serves as a world-class planning source for China's AI era.
 
 ![100-year Jing-Zhang AI Innovation — World-class Master Map](assets/prototypes-shots/A.webp)
-*Figure A: Overall positioning - 100-year Jing-Zhang □ AI Innovative Area*
+*Figure A: Overall positioning - 100-year Jing-Zhang × AI Innovation Corridor*
 
 The orientation operates at three levels, matching the Core Three (1.2):
 
@@ -307,18 +307,18 @@ The observed-pattern–candidate-mechanism-diagnostic indicator chain reveals a 
 
 #### Problem identification: AI Generous Resource Pooling, the support system is still in "Securing Basics."
 
-Jing-Zhang AI's innovation united **535** university faculties and **556** AI firms (Amap public-POI statistical caliber, scraped 2026-08, not item-by-item verified, for relative-density comparison only), yet public services remain residential-basic. Co-locating talent, business, life shows the core issue: innovative resource intensity exceeds current system capacity.
+Exploratory point layers suggest clusters of university research and technology enterprises along the corridor, but the layers are not item-by-item verified and do not support count or density claims. Existing public services remain oriented to basic residential provision and do not fully address spaces for exchange, collaboration and sharing.
 
 #### Problem: AI has created a pool of resources, and the system of supporting facilities is still in the "basics"
 
 The "human spot" and "facility spot" are co-located but mismatched: resources gather rapidly while combinations remain lacking.
 
-#### Resources: 535 university faculties + 556 AI enterprises
+#### Resources: university research and technology-enterprise clusters
 
 The innovation zone concentrates creative resources in a two-polar spatial pattern: North-end talent and South-east industrial convergence.
 
-- **535 places in higher education** (POI statistical caliber): Qinghua University (400+ dept/building) plus Beijing Forestry, China Mining, Medical, Science & Tech form the nation's densest AI talent pool.
-- **AI enterprise 556** (POI statistical caliber): 128 families at five junctions exceed second-tier business area by multiple times, driving industrial clustering.
+- **University research resources** form a northern talent and research interface.
+- **Technology-enterprise resources** form enterprise-service and translation nodes in the central and southern sections.
   - **In the middle is "the corridor"**: a few-kilometre commuting-collaborative link between North and South that should exist but does not.
 
 #### Where is it?
@@ -329,7 +329,7 @@ Core judgment
 Core judgment: where talent density peaks, the innovation link is weakest; the current situation shows "inhabitation" without solving "innovation", offering AI-centred support rather than population-centred.
 
 Space overview: tertiary and AI enterprise resource cluster.
-Default layout shows POI points of ~535 universities + 556 AI enterprises (statistical caliber); top-right panel reveals resource layer.
+The default view shows exploratory university and technology-enterprise point layers. They demonstrate spatial patterns only and do not present formal statistics.
 
 #### Current public service provision combing: basic level 298 and six types of gaps
 
@@ -404,22 +404,22 @@ Question III
 
 It is not only a matter of space, but also of governance.
 
-- **Boundaries of the Wall:** ~72% of 18 scientific institutions back onto the park (team-measured caliber) - closes wall to porch, prevents facility sharing, creates unfriendly interfaces and loses high-value green gallery.
+- **Institutional boundaries:** visual and field review suggests that some research campuses present closed edges to the park corridor; the extent requires onsite verification.
   - **Administrative boundary:** multiple, overlapping secular and administrative borders create complex governance layers.
 
-- **18 places**: scientific institutions, 72 % back to parks - **7** Wall: closed interfaces blocking access and sharing
+- **Campus edges**: some closed or park-facing interfaces - **Coordination**: multiple actors - **Walls**: potential access and sharing barriers
 ![Distribution of educational and scientific sites at the border with institutions](assets/figures/fig_edu_research.en.svg)
-**Chart 3** Educational & scientific site distribution along institutional boundaries. 45 % lie along roads; 72 % of 18 institutes sit in park behind walls/fences, closing space and dispersing subjects.
+**Chart 3.** Educational and research land and campus boundaries. The diagram indicates some wall and fence interfaces along the corridor; exact shares and extents require official land data and onsite verification.
 Question IV
 
 #### Lack of public space and ecological networks
 Even though the corridor was released as a green belt, its "public" and "ecological" aspects were not fully realized:
 
-- Open space fragmented by interfaces, **75 %** negative space;
+- Open space is fragmented by interfaces, and some areas show low activity or weak access;
   - Greenness **is scattered**, failing to form a continuous ecological network.
   - Lack of linkages and design synergy between nurseries/parks limits ecological value and public vitality.
 
-- **75 %** open space passive - **22**: mostly passive open-space paragraph (proposal) - **dot**: green land not continuous network
+- **Space activity**: some underused areas - **Interface continuity**: field verification required - **Pattern**: green space is not yet a continuous network
 Diagnostic indicators
 
 #### Diagnosis indicator: from phenomenon identification to measurable, monitorable
@@ -431,8 +431,8 @@ Following a phenomenon-to-mechanism-hypothesis diagnosis, the four questions bec
 |Update potential index (time dimension)|Local block "Identification Planner Update Operations" phase, window loss risk warning|Special planning library update + progress board (camp town applet)||
 |**Issue II: type fragmentation**|Land-use efficiency along the route|Distribution and connectivity of market, underused and abandoned-space types|Underused-land inventory + later survey verification|
 |Update of the Potential Index (one dimension)|Number of composing units, fragmentation (platform connectivity)|Spatial unit spectrometry and image connectivity calculations||
-|** Question No. 3**|Accessibility on both sides of the railway (shared dimensions)|72 % back to park colleges (18 places); cross-street town coordination units (7 blocks); barrier interface length|Open School Data + Street and Town Border + Multi-Purpose Access|
-|** Issue IV Public ecological deficiencies**|Update Potential Index (Quality Dimensions)|Negative spatial ratio 75 % (22 open spaces); Greenfield network connectivity (points vs continuous green network gap)|Open Space / Greenlands Vector + Econet Gaps Visualization|
+|**Question 3**|Accessibility on both sides of the railway|Campus orientation, cross-actor coordination and barrier-interface length|Campus-access verification + administrative boundaries + co-governance entry points|
+|**Issue 4: public ecological deficiencies**|Renewal potential index|Open-space activity and green-network connectivity|Open-space / green-space vectors + ecological-network visualization|
 
 > The three core indicators-land-use efficiency along routes, rail availability on both sides, and renewed-potential index-form the diagnostic core of "low-impact reuse along the dual-iron corridor". This section refines them into measurable sub-indicators and data for program generation and digitized products.
 Question III
@@ -468,9 +468,9 @@ Question II
 
 #### East-West connections have been cut for a long time, and traffic density is still low.
 
-Railways, orbits, trans-rivers and fast roads create an east-west cut-off, forcing longer trips. Network density is **5.72 km**, below the required **8 km/km²**; current condition includes **30 break-ups, 64 tids (team-measured calibers, see Appendix F)**, and poor connectivity, worsening corridor crossing.
+Rail, waterways and major roads create east-west barriers and force detours on some routes. Exploratory base-map reading suggests gaps in local-road continuity and cross-corridor links. Without versioned official road data and a reproducible calculation chain, the proposal does not state a precise network density, breakpoint count or quantitative threshold comparison.
 
-- **5.72**: Network density km/km² (target 8) - **30**: **64** typography
+- **Network continuity**: local gaps - **Cross-corridor links**: some detours - **Verification**: recalculate from official road data
 ![Study range road systems and east-west access](assets/figures/fig_road_network.en.svg)
 **Chart 2 - Study of road systems and east-west access.** Superhighways, fast, main and secondary roads are well graded but intersected by rail/orbit/trans-river, creating insufficient east-west links and higher bypass costs due to break-heads and thong roads.
 Question III
@@ -513,7 +513,7 @@ Following a phenomenon-to-mechanism-hypothesis diagnosis, the five issues become
 |Problem|Diagnostic indicators|Status / Threshold (calculated)|Data sources and monitoring tools (digitized base)|
 |---|---|---|---|
 |** Question one, triple compound**|Switch time (stereolink)|7 vertical switching of faults / length of evacuation; points of multilayered traffic conflict|+ BIM/IOT twin platform|
-|** Question two, east-west cutting**|Concussion index (accessible)|Network density 5.72 < 8; break-up 30, typography 64; average bypass distance across the corridor|Net vector + real-time traffic + bypass path calculation|
+|**Question 2: east-west barriers**|Network accessibility|Road continuity, average cross-corridor detour and connection gaps|Official road vectors + traffic flow + route calculation|
 |** Question three.**|Swap Time / Multi-Model Travel Sharing Rate|TOD convenience zone 70% vs 30% inconvenient; station to park walk 10min; access gap|Public transport/orbit/active migration + site access monitoring|
 |** Question four, mixed conflict**|Congestion index (order)|Intensities of conflict between nodal groups; peak congestion periods in sections such as Chengdu Roads/Two Clear Roads|Multisource Perception Integration (Video/ Radar)+Auto-Detection of Events|
 |** Question V Managing roughness**|Multi-modal travel sharing (quality)|Ground occupancy rate below bridge violation; damage rate to active mobility lanes; bicycle invasion frequency|Subbridge Portal AI Test + action quality rating + hand-shot closed loop|
@@ -709,7 +709,7 @@ Addressing Chapter III's five core issues, the strategy includes continuous spec
 Based on identified issues, the proposal transforms public service facilities from point supply to a continuous spectrum (solo, occasional, coexistence, communication, collaboration, demonstration, community, urban life) and completes AI infrastructure with **3** general power hub and **12** edge node.
 
 Space overview: continuous spectrum support and AI infrastructure.
-Shows POI locations of ~535 universities and 556 AI enterprises (statistical caliber); interface (S/M/H/L) and infrastructure (junction/edge node) layers appear on the upper-right panel.
+Shows exploratory university and technology-enterprise point layers together with the S/M/H/L and infrastructure layers. The points demonstrate spatial patterns only.
 
 #### Continuous spectral support policy: S / M / H / L 4-level network
 
@@ -782,8 +782,7 @@ Site selection follows norm drop-off: 100 m from railway (category A ≥ B/C ≥
 
 |Category|Contents|Source/ caliber|
 |---|---|---|
-|University places 535|Qinghua 400+System / Building + Northwood + Mining (Beijing) + North Great Medical Department + North Coda, etc.|Amap POI, scraped 2026-08, WGS84, statistical caliber not item-by-item verified|
-|AI Enterprise POI 556|5 mouths 128 families on one horse; only 58 AI-high entities|Amap POI, scraped 2026-08, statistical caliber not item-by-item verified|
+|University-research and technology-enterprise points|Exploratory distribution layers used only to demonstrate spatial patterns|Not item-by-item verified; no count, density or ranking claim|
 |Basic provision 298|Public-service facilities ledger measured per residential planning-standard values|Team self-audited ledger caliber (standard-value baseline)|
 |Pai ≈ 60,000|AI Innovative population (4-80,000)|Push Value|
 |Eight activity-space types|Solitude / encounter / co-presence / exchange / collaboration / display / community / urban public life|Scale to be recalculated from formal conditions|
@@ -1401,7 +1400,7 @@ The water-security "four-prevention system" forecasts serve as a decision base f
 
 **Spatial location**: railway museum community at Qinghua Park station node or West Straight Gate node;
 
-**Wisdom experience**: 1. **Appointment and subject orientation**: tourists select engineering, patriotism, or AI tracks; system balances visitor flow with site capacity; 2. **Digital twin display**: indoor museums show rail lines and technologies via insulated cinemas and 3D models; outdoor restorations include 1910/1960/2008 station images; 3. **Interactive cards**: VR drivers, car visions, text-making meals, commemorative stamps; 4. **Co-entry**: visitors upload "Jing-Zhang memory" or creative content to digital archives or public art walls after review.
+**Visitor experience**: 1. **Booking and thematic guidance**: visitors select engineering-history, public-education or AI-innovation routes while the system balances flow and site capacity; 2. **Digital-twin interpretation**: indoor displays present verified railway technologies and spatial change, while outdoor AR uses only archival material checked against authoritative records; 3. **Interactive experience**: simulated driving, carriage media, creative products and commemorative stamps; 4. **Co-creation**: public memories enter the digital archive or public-art wall only after source verification and content review.
 
 ** Data and privacy boundaries**: only booking images, research feedback, and authorized shares processed; no biometric or tracking data collected;
 
@@ -2319,7 +2318,7 @@ Intelligently lowers the historical-understanding threshold, turning the public 
 Uses three-dimensional laser scanning and tilt photography of heritage structures to create a BIM/CIM-class digital archive, forming a searchable, comparable, updated Jing-Zhang cultural digital twin.
 
   - **Data layer**: integrates multi-source data-historical maps, photos, engineering drawings, monitoring data, oral-history video, product information.
-- **Model layer**: build 3D models of heritage body, historic landscape, perimeter environment; support multi-temporal states 1909/1960/2008;
+- **Model layer**: build 3D models of heritage assets, historic landscapes and surrounding contexts; publish historical states only after verification against authoritative records;
   - **Knowledge graph layer**: builds a Jing-Zhang Railway knowledge graph for semantic search and node-based recommendations (person, event, location, technology, object).
   - **Open interface layer**: defines open standards for museums, education platforms, developers, urban-governance APIs, encouraging secondary development and cross-domain applications.
 
@@ -2331,7 +2330,7 @@ Establish AR/VR experience points at key nodes (Qinghua Park Station, Five Mouth
 - 1912 visit to Jing-Zhang Railway at Sun Zhongshan;
 - In 1949, the Qinghua Park entrance exam was specially scheduled;
 - In 1960, the railway line shifted and Qinghua Park station moved;
-- In 2008, Jing-Zhang high-line landing and Qing River station inaugurated;
+- Railway-facility transition points verified against authoritative historical records;
   - ** Trigger method**: mobile phone scanning station floors, site base sites or specific public art, allowing the superseding of historical images and 3D restoration; entry of immersed cars and sites through VR head-on in museums;
   - **Content production pipeline**: AI narrative engine generates scripts, spectroscopy, and multilingual interpretation from archives, followed by manual review for accuracy.
   - **Intergenerational interaction**: Adolescents add digital notes via AR to elders' historical scenes, creating family memory books.

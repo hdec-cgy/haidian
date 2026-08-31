@@ -112,9 +112,9 @@ window.JINGZHANG_SANDBOX_DOCUMENT = String.raw`<!doctype html>
             <label><input type="checkbox" data-map-layer="water"><i class="swatch water"></i>河流 / 水系</label>
             <label><input type="checkbox" data-map-layer="parks"><i class="swatch parks"></i>绿地 / 公园</label>
             <label><input type="checkbox" data-map-layer="techpoi" checked><i class="swatch techpoi"></i>科技企业 POI</label>
-            <label class="sub"><input type="radio" name="techpoi-source" value="all" checked><i class="swatch techpoi-all"></i>全部（1171）</label>
-            <label class="sub"><input type="radio" name="techpoi-source" value="hc"><i class="swatch techpoi-hc"></i>高置信（556）</label>
-            <label><input type="checkbox" data-map-layer="university" checked><i class="swatch university"></i>高校点位（515）</label>
+            <label class="sub"><input type="radio" name="techpoi-source" value="all" checked><i class="swatch techpoi-all"></i>全部探索样本</label>
+            <label class="sub"><input type="radio" name="techpoi-source" value="hc"><i class="swatch techpoi-hc"></i>高置信样本</label>
+            <label><input type="checkbox" data-map-layer="university" checked><i class="swatch university"></i>高校探索点位</label>
           </div>
         </div>
         <div class="data-badge glass"><b>AI MAP · VECTOR BASE</b><span id="osmStats">正在载入本地 OSM 矢量图层…</span></div>
