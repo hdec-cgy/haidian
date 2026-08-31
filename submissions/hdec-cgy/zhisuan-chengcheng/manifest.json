@@ -93,7 +93,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "66beaa4f2a0acc6c0a9b8912e2a433c00c9faae5758439a418b2aec47e7d869e"
+      "sha256": "f6557e923ff37e655a8bf65d0d7bd729262d3c900caa5fcc8b978c5efe718097"
     },
     {
       "path": "report/narrative.md",
@@ -126,7 +126,7 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "5ba88bfbe20724a78fd06b445da93a1573abfbd46270c8f16dfc3af132b3eac3"
+      "sha256": "f759dcf9d63b7a17713f480982446d51d1ce7a4f587b15d5889fa98397811fbc"
     },
     {
       "path": "assets/figures/key-areas.png",

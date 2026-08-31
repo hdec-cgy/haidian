@@ -38,6 +38,27 @@
     fit();
     window.addEventListener('resize', fit);
   }
-  if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', boot); }
-  else { boot(); }
+  function scheduleBoot() {
+    var host = document.getElementById('jzSandboxEmbed');
+    if (!host) return;
+    /*
+       The story page is also rendered headlessly for review screenshots.  Loading
+       the complete map/POI sandbox before it is visible makes that static capture
+       parse several large datasets it never displays.  Keep the same interactive
+       experience for readers, but initialise only when the embed approaches the
+       viewport.  This also leaves the document load event deterministic offline.
+    */
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function (entries) {
+        if (!entries.some(function (entry) { return entry.isIntersecting; })) return;
+        observer.disconnect();
+        boot();
+      }, { rootMargin: '240px 0px' });
+      observer.observe(host);
+      return;
+    }
+    window.setTimeout(boot, 0);
+  }
+  if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', scheduleBoot); }
+  else { scheduleBoot(); }
 }());
