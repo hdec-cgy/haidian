@@ -195,6 +195,7 @@
         "submissions/hdec-cgy/zhisuan-chengcheng/self_check.json",
         "submissions/hdec-cgy/zhisuan-chengcheng/sources.json",
         "submissions/hdec-cgy/zhisuan-chengcheng/standard_matrix.json",
+        "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/cjk-font.css",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/app.js",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/data/osm-data.js",
         "submissions/hdec-cgy/zhisuan-chengcheng/visual/assets/sandbox/data/provisional_boundaries.json",
@@ -237,7 +238,7 @@
       "ai_package_stages": {
         "submissions/hdec-cgy/zhisuan-chengcheng": "formal"
       },
-      "total_bytes": 40491209,
+      "total_bytes": 41263221,
       "maintainer_bypass": false
     },
     "stderr": ""

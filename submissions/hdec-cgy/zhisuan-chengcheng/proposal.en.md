@@ -209,19 +209,13 @@ Peripheral training centres conduct large-scale, long-duration training; Zhongzh
 
 This section provides a conceptual orientation for the urban contest; the specific plots, spatial scope, functional matches and construction scale of the three priority areas are evolving and not yet approved, and "World-class Access of regional innovation" is a planning vision and evaluation criterion, not a construction commitment.
 
-Before formal deepening, obtain detailed data on focus-area boundaries, regulatory planning conditions, terrain, power and municipal capacity, tenure, and environmental impacts by recalibrating location, functional structure, and labour division among the three areas and by `sources.json ' registering external sources of discussion and the unknown conditions of registration in `assumps.json.
+During formal deepening, recalibrate the location, functional structure and division of labour using the official focus-area boundaries, planning conditions, terrain, utility capacity, tenure and environmental information available at that stage.
 
 #### Main references
 
 1. The 100-year Jing-Zhang AI Innovation Belt Open Job Book for Smart Bodies summarises clean-up rights locally.
 2. Proposal structure outline "1 Project Understanding and Functional Structure".
-3. In April 2023, during a Guangdong study tour, General Secretary Xi emphasised the importance of enhanced science, technology and innovation (STI) sources.
-4. President Xi's keynote at the opening of the World Congress on AI and the High-level Meeting on Artificial Global Governance.
-5. In April 2025, General Secretary Xi Jinping gave a key indication during a visit to an innovative ecological community in Shanghai's "mode space."
-6. Xi Jinping's Secretary-General presented on AI industry convergence, innovative ecological construction, and high-quality industrial development.
-7. This proposal 4.4, "Soft Resilience Smart Program," outlines a two-sided labour division in Sector 3.
-
-> Prior to formal submission, the leader's key statements and source details must be recorded in `sources.json ' and the unknown conditions of location, boundary, tenure, etc. should be registered at `assumptions.json.
+3. This proposal 4.4, "Soft Resilience Smart Program," outlines a two-sided labour division in Sector 3.
 
 ## Integrated study of industry and future city studies
 
@@ -248,19 +242,16 @@ The orientation operates at three levels, matching the Core Three (1.2):
 
 "World-class" is a testable standard; the source of extraordinary innovation differs from a typical AI campus by greater adaptive capacity-ability to self-replace, restructure, and regenerate amid paradigm shifts, power shocks, capital cycles, and brain drain. This aligns with proposal 4.4 "Soft Resilient Intelligence," which defines core competitiveness as generating new ideas, enterprises, and standards during ongoing instability.
 
-#### 1.2 Top-level pull: an important discussion of sources of science, technology and innovation
-Secretary-General Xi Jinping.
+#### 1.2 Source capacity: four testable dimensions
 
-(Paraphrase, not verbatim quotation; wording subject to the authoritative Xinhua release) Strengthen the science- and innovation-source function to generate new scientific discoveries, technological inventions, industrial directions and ideas from scratch, aiming to be the first discoverer of scientific laws, inventor of technologies, pioneer of innovation industries, and practitioner of innovation ideas, delivering original basic and applied research that breaks critical technology cores.
-
-This discussion supplies the top-level pull for "world-class access of international innovation" and anchors the program's four dimensions - **"four first"**:
+The proposal translates the world-class innovation-source ambition into four testable design dimensions:
 
   - **First discoverer of scientific law**: leveraging higher-education institutions as the AI basic-research source.
   - **First creator of technological invention**: Zhongzhi Park's autonomous innovation serves as the engine for key core breakthroughs.
   - **First pioneer of the innovation industry**: origin community elements become the source of new industries and businesses.
   - **First practitioner of the concept of innovation**: the "Planning Operating System" approach pilots paradigm change in AI-era planning.
 
-The spatial layout of the "Four Ones" and "Three Twos" mirrors each other, forming a complete chain of ideas, technologies, and industry.
+The four dimensions map to the spatial roles of the three focus areas, forming a complete chain of ideas, technologies and industry.
 
 ## urban renewal and regulatory detailed planning depth urban design
 
@@ -404,7 +395,7 @@ Under the bridge, vacant railways, temporary parking, and wall perimeters form a
 
 Shantytowns and modern plots near Harun Road, Four Rings West, and Five Crossroads are costly and complex to upgrade.
 
-- **under bridge**: ~194 000 m² negative space - **railway idle**: ~605 000 m² - **temporary parking**: ~489 000 m² - **wall**: ~4,977 m closed interface
+- **Under-bridge areas, idle railway land, temporary parking and walled edges** are treated as underused-space types for later survey and classification; this proposal does not cite unverified area or length figures.
 ![Distribution of old temporary buildings along the corridor](assets/figures/fig_old_temp.en.svg)
 **Chart 2** Distribution of old temporary buildings along corridor. West Gate, Dazhongsi, Zhichun Rd, five junctions, East Chonghua Rd concentrate old temporaries; new sites are scattered, hard to integrate.
 Question III
@@ -438,7 +429,7 @@ Following a phenomenon-to-mechanism-hypothesis diagnosis, the four questions bec
 |---|---|---|---|
 |** Question I Time difference**|Land efficiency along routes|Low utility ratio, unit output intensity; post-corridor land-value index, but current quality unsynchronized|Land-map, price monitoring, AI remote-sensing graph|
 |Update potential index (time dimension)|Local block "Identification Planner Update Operations" phase, window loss risk warning|Special planning library update + progress board (camp town applet)||
-|** Issue II Type fragmentation**|Land use efficiency (structural) along routes|Trading market category / negative space / abandoned squatters: ≈ 194,000 m2 under bridge, ≈ 605-000 m2 railways, ≈ 489-000 m2 temporary parking, ≈ 4,977 m walls|Low-use status bank (Class-Package) + program calibration|
+|**Issue II: type fragmentation**|Land-use efficiency along the route|Distribution and connectivity of market, underused and abandoned-space types|Underused-land inventory + later survey verification|
 |Update of the Potential Index (one dimension)|Number of composing units, fragmentation (platform connectivity)|Spatial unit spectrometry and image connectivity calculations||
 |** Question No. 3**|Accessibility on both sides of the railway (shared dimensions)|72 % back to park colleges (18 places); cross-street town coordination units (7 blocks); barrier interface length|Open School Data + Street and Town Border + Multi-Purpose Access|
 |** Issue IV Public ecological deficiencies**|Update Potential Index (Quality Dimensions)|Negative spatial ratio 75 % (22 open spaces); Greenfield network connectivity (points vs continuous green network gap)|Open Space / Greenlands Vector + Econet Gaps Visualization|
@@ -732,24 +723,24 @@ spectral 8-state
 
 Solo, occasional, co-existence, communication, collaboration, display, community, urban public life.
 
-Case experience values per person area (total 3.0 m²/person):
+Supporting-space demand is structured around eight activity types: solitude, encounter, co-presence, exchange, collaboration, display, community and urban public life.
 
 |Status|Alone.|I met him once.|Together.|Communications|Collaboration|Presentation|Community|Urban public life|
 |---|---|---|---|---|---|---|---|---|
 |**Per capita (m2)**|0.3|0.2|0.4|0.5|0.8|0.3|0.3|0.2|
 
-Adds D = Pai × 3.0 ≈ 180,000 m² (15-210,000 m²) by extrapolation.
+The total supporting-space requirement must be recalculated once formal population, land and planning conditions are available; no area conclusion is assumed here.
 
 #### Level 4: S / M / H / L (set L ⊃ H ⊃ M ⊃ S)
 
-Allocate 180,000 m² across four levels, forming the embedded amplification of the skeletal framework-each level initiates functional amplification and public upgrade.
+Four nested levels form the spatial framework, with each level expanding function and public accessibility.
 
 |Level|Number|Area share|Roles and Typicals|
 |---|---|---|---|
-|**S** Focus & encounter|150|26% (4.47, 000 m²)|Minimal contact point, hourly rent: focused position or occasional bar encounter between university and enterprise|
-|**M** Innovation/Life/Community/Integration/Body|50|≈ 41% (7.74, 000 m²)|Dominant daily corridors and neighbourhoods: innovation lounge, life node, third space, complex node, physical health|
-|**H** Industrial flagship engine|3|23% (41 000 m²)|Zhongzhi Park, Beijing AI Origin Community, Dazhongsi - hosts industry flagship and testing|
-|**L** Urban pilgrimage destination|3|≈ 9% (≈16,000 m²)|Chile/Talent/Industrial zone - urban destination and public interface|
+|**S** Focus & encounter|Distributed|Small and flexible|Focus workpoints and encounter bars between universities and enterprises|
+|**M** Innovation/life/community|Clustered|Daily-use layer|Innovation lounges, life nodes, third places and health spaces|
+|**H** Industrial flagship engine|Focus areas|Industry layer|Zhongzhi Park, Beijing AI Origin Community and Dazhongsi|
+|**L** Urban public destination|Corridor nodes|Public interface|Public display, exchange and experience spaces|
 
 #### Why "spectrum" instead of "compensation"?
 
@@ -769,9 +760,9 @@ AI city requires a computational power facility; program adds **3 central power 
 
 |Hub|Level|Local cards|It's not like I'm going to have to do this.|Area|Hostroom down.|
 |---|---|---|---|---|---|
-|**Zhongzhi Park Port**|Main port|1000|~0.30 EFLOPs|~3800 ㎡|Renovation plant / New heavy building|
-|**Community ports of origin**|Port|600|~0.18 EFLOPs|~2500 ㎡|Stock implant / new heavyweight building|
-|**Dazhongsi port**|Port|400|~0.12 EFLOPs|~2000 ㎡|Stock implant / new heavyweight building|
+|**Zhongzhi Park Port**|Main port|Subject to engineering verification|Subject to engineering verification|Subject to planning verification|Renovated plant / new heavy-duty building|
+|**Community port of origin**|Port|Subject to engineering verification|Subject to engineering verification|Subject to planning verification|Adaptive reuse / new heavy-duty building|
+|**Dazhongsi port**|Port|Subject to engineering verification|Subject to engineering verification|Subject to planning verification|Adaptive reuse / new heavy-duty building|
 
 The three hubs adopt "stock implantation + light separation": each hub comprises **1 light landmark** (R&D building, accessible sanctuaries) and **1 heavy bottom** (aircraft room, heavy board/liquid cooling), making computational power an urban, visible element rather than an isolated data centre.
 
@@ -795,7 +786,7 @@ Site selection follows norm drop-off: 100 m from railway (category A ≥ B/C ≥
 |AI Enterprise POI 556|5 mouths 128 families on one horse; only 58 AI-high entities|Amap POI, scraped 2026-08, statistical caliber not item-by-item verified|
 |Basic provision 298|Public-service facilities ledger measured per residential planning-standard values|Team self-audited ledger caliber (standard-value baseline)|
 |Pai ≈ 60,000|AI Innovative population (4-80,000)|Push Value|
-|Per capita 3.0 m² / VIII|0.3 / Occasional 0.2 / Co-existence 0.4 / Exchange 0.5 / Collaboration 0.8 / Demonstration 0.3 / Community 0.3 / Urban public life 0.2|Case experience|
+|Eight activity-space types|Solitude / encounter / co-presence / exchange / collaboration / display / community / urban public life|Scale to be recalculated from formal conditions|
 |S/M/H/L ratio|≈ 26% / 41% / 23% / 9%; S=150 / M=50 / H=3 / L=3|Push Value|
 |COMPUTATION POWER CENTRE 3|Zhongzhi Park Main Port 1000 Kcal / Origin Community Port 600 Kcal / Dazhongsi 400 Kcal (local 2000 Ccal, 0.6 EFLOPS, 2%)|Extrapolation value; host room down to proposal decision|
 |Edge Node 12|≈384, ≈0.1 EFLOPs|Data (POI group) + evolution value|
@@ -820,9 +811,6 @@ Open win-win, innovation development
 
 ![Zhongzhi Parkai Autonomous Innovation Acceleration Zone](assets/prototypes-shots/B.webp)
 *B|Zhongzhi Park AI Autonomous Innovation Acceleration Area*
-President Xi Jinping 2026; World Congress on AI and High-level Meeting on AI Global Governance
-
-"As a new engine of global growth and accelerator of dynamic energy transformation, we shift from a digital to a physical world, seizing historic opportunity to promote open-source, cooperative AI, industrial advancement, landscape use, traditional industry upgrades, new industry growth, and future-oriented AI applications, enabling AI to accomplish all tasks."
 
 Zhongzhi Park claims the "technology breakthrough" link within the **AI Autonomous Innovation Acceleration** chain:
 
@@ -838,8 +826,6 @@ Focus area II
 
 ![Beijing AI Community of Origin](assets/prototypes-shots/C.en.webp)
 *Figure C: Beijing AI Community of Origin*
-General Secretary Xi Jinping issued an important directive during an April study of innovative eco-communities in Shanghai 2025, coinciding with the creation of the Shanghai "mode space" big model.
-Core message (paraphrase, not verbatim; wording subject to authoritative releases): AI technology is accelerating into explosive growth; AI is a young enterprise and the cause of young people; the young are encouraged to be patriotic, ambitious and capable, aligning personal effort with national destiny and carrying the baton of history on China's modernisation stage.
 
 The Beijing AI community of origin is the "World class of original innovation" **scene core**, forming part of the "**Thoughts and Standards**" in the source chain:
 
@@ -855,8 +841,6 @@ Elemental convergence, ecological synergy
 
 ![DazhongsiAI Industrial Cluster](assets/prototypes-shots/D.webp)
 *D|DazhongsiAI Industrial Cluster*
-General Secretary of Xi Jinping.
-Core message (paraphrase, not verbatim; wording subject to authoritative releases): the country has abundant data resources, complete industrial systems and vast market space with broad AI prospects; policy support and talent development should be strengthened, open-source collaboration encouraged, and AI innovation, industry and application advanced together to foster a healthy ecosystem.
 
 Dazhongsi oversees the "**industrial landslide and ecological clustering**" segment of the source chain.
 
@@ -1014,7 +998,7 @@ The following percentage references **conceptual priorities for the urban-design
 |Computational power, edge and authentication (underground)|15%—20%|For near lightweight, marginal caches, validation of workshops and energy synergies as substrate energy enablers|
 |Transport, logistics & security support|10%-15%|Equipment transport, fire rescue, routine services|
 
-Retaining primary space for talent, enterprise, and open sources creates a "source of environmental innovation" instead of an "engineer room"; shifting general power from the "compressed corner" to the "underground energy element" yields near-light, marginal cache, validation workshops, and the physical interface of the energy-computational safety system, rather than being eliminated. 30-50 acres of work units remain conceptual scales based on official focus areas and detailed conditions.
+Retaining primary space for talent, enterprise and open source keeps the innovation community, rather than the machine room, in the leading role. Work-unit scale and final land boundaries must be determined from official focus-area and planning conditions.
 
 #### Design drawings and simulations
 
@@ -1119,12 +1103,12 @@ The Platform channels movement and governance of the five scenarios via the "**G
 |Maas Travel Services|scene IV Maas|Course planning, multiplication advice, carbon credits|
 |Data and governance|Cross scene|Data classification, desensitization, audit marks, manual review|
 
-The scenario leverages "vehicle-infrastructure traffic / precision public transport / unmanned + MaaS / digital twin" capabilities and the "three-line integration / global parking / cloud twinning / low-altitude logistics" framework of smart traffic solutions. **Capability is a methodological reference, not a construction commitment.**
+The scenarios use public-transport coordination, active-mobility connections, MaaS and digital twins as conceptual methods, without committing any party to delivery or implementation.
 
 ![Map of the five types of AI+ traffic scene concept](assets/figures/transport-scenario-map.en.svg)
 *5 AI-plus traffic scenes and three nuclear space relations (concepts pending official refinement)*
 
-#### Scene one: Unmanned access ring (brain flow)
+#### Scene one: Public access ring (talent flow)
 
 **Possibility and object**: backbone links among three cores, serving commuters, visitors, high-level train passengers at Qing River station to ease talent mobility. **Space position**: along Qing River-Dazhongsi corridor, low-speed unlinked access (hydrogen/electric minibus, design speed 20-40 km/h), stations spaced 300-500 m, integrated with main spine and three nuclear portals.
 
@@ -1141,7 +1125,7 @@ The scenario leverages "vehicle-infrastructure traffic / precision public transp
 
 ** Data and governance**: passenger flow aggregated openly; vehicle status authorized; personal itineraries restricted; only desensitized flow data collected; sensor failures mitigated by edge parking and remote takeover; transport sector confirms and traces operating lines and parking points.
 
-** Manual review and operation**: primary operator provides innovation + unmanned operation; security officer can assume control locally or remotely; serves as non-digital alternative to conventional bus link.
+**Manual review and operation**: the district operator and public-transport operator jointly manage the service; dispatch actions require human confirmation, with conventional bus links retained as the fallback.
 
 ** Indicator and validation**: access response delay, inter-core commute time, arrival rate; tested on closed/semi-open segment before launch.
 
@@ -1467,7 +1451,7 @@ Optimise inefficient, debris-laden idle space in the Jing-Zhang Railway innovati
 
 The Jing-Zhang Railway innovation belt contains many inefficient spaces-grey under-bridge areas, idle stations, old industrial sites, edge green zones, vacant office floors-resulting from re-routing, upgrading, and complex tenure; they are "sleeping assets" awaiting proper project-operator matching, not negative assets;
 
-Strategy uses the "stock asset renewal cloud"-**space for adaptation projects**, **space for projects**, and treats fine activation as a lightweight OS spanning 4.1-4.3: it avoids large dismantling, relying on space-asset identification, AI-guided decisions, precise activation, smart operations, and feedback optimization to turn underused space into low-cost, flexible innovation and service hubs. **4.3** In short, **4.3**, the goal is "self-sustaining innovative-belt space" rather than constructing 10,000 m² of new building.
+The strategy uses a stock-asset renewal workflow and treats fine-grained activation as a lightweight operating system: it avoids large-scale demolition and relies on space-asset identification, assisted decisions, precise activation, operations and feedback to turn underused space into flexible innovation and service hubs.
 
 ![Jing-Zhang Space Asset Inventory Update Cloud Applet home page](assets/figures/yingcheng/homepage.en.webp)
 *Jing-Zhang Space Asset Inventory Update Cloud Applet home page*
@@ -1597,7 +1581,7 @@ Based on nearby population traits, embed differential functions to avoid "thousa
 Small community spaces (Innovation Box, Joint Discussion Room, Open Source Lodge) within 5-10-minute walk in the innovation zone:
 
   - **Functional positioning**: support occasional communication, improvisation, cross-border cooperation, small activities;
-- **Spatial form**: modular, mobile, time-sensitive, covering 20-100 m²;
+- **Spatial form**: modular, mobile and time-shared; the specific scale is determined by site and operational conditions;
   - **Service embedded**: integrate short-term rentals, shared kitchens, laundry, gym, childcare, pet care around community spaces to ease innovators' lives;
   - **Business-community-sharing interface**: Encourage firms to open conference rooms, exhibition halls, green spaces, parking to communities in exchange for public service points or brand exposure, creating mutual benefits.
 
@@ -1731,7 +1715,6 @@ This conceptual strategy targets the urban design competition; tenure, planning 
 4. China Institute of Architectural and Design Research, Ltd.: "Draft Convergence Concept Program for Jing-Zhang Railway Site Parks", 2020.
 5. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary OSM road, orbit, water and green-field data for design research and spatial relationship identification.
 
-> Before formal submission, register page numbers and quoted boundaries of external data at `sources.json ' and the unknown conditions of location, title, structural security, town and fire should be registered at `assumptions.json.
 
 ## Transport, track, municipalities and public services
 
@@ -1826,7 +1809,7 @@ The core action is **encrypted feeder network and breakout circuit access** to d
 |---|---|---|
 |Bone layer|Orbital (13/4/10/Jing-Zhang high iron, etc.)|High-capacity rapid link among three nuclei and beyond|
 |General Layer|Regular + precision buses|Main/sub-drive coverage, priority-infrastructure concentration, good station access|
-|Bridge|Bus access, custom and unmanned services|Orbital portal last kilometre, trinuclear micro-cycle|
+|Bridge|Bus access and custom public-transport services|Orbital portal last kilometre, trinuclear micro-cycle|
 
 #### 4.3.2.6.2 Sites and hubs
 
@@ -1972,15 +1955,8 @@ Official design scope, priority area boundaries, road redlines, orbital slots, a
 #### Main references
 
 1. The 100-year Jing-Zhang AI Innovation Belt Open Job Book for Smart Bodies summarizes local clean-up rights.
-2. Smart traffic solutions-vehicle-infrastructure cooperation, precision bus, unmanned driver + MaaS, smart parking, triple integration, cloud twinning, green travel MaaS, traffic integration, low-altitude economy-serve as capability references.
-3. Beijing Auto-Driving Automobile Ordinance (2024).
-4. Beijing Auto-Driving Road Test and Demonstration Pilot (2025, 43).
-5. Beijing City Programme for Legal Promotion of Innovative Automatic Automobile Applications (2025).
-6. Beijing "145" top-notch industrial development plan (Intellectual Network Car).
-7. National standards: GB/T 51,328 Planning Standards for Integrated Urban Transport Systems, CJJ 37 Design Code for Urban Road Works, GB 50647 Design Code for Urban Road Traffic Facilities.
-8. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary scope and OSM road, orbit, water system, green-field background data, for design research and spatial relationship identification only.
-
-> Before formal submission, register external information at `sources.json ' (including specific sources of global case studies on target and smart traffic solutions) and the unknown conditions of orbital line slots, road red lines, bridge works, low-altitude airspace, town and fire protection should be registered at `assumptions.json.
+2. National standards: GB/T 51,328 Planning Standards for Integrated Urban Transport Systems, CJJ 37 Design Code for Urban Road Works, GB 50647 Design Code for Urban Road Traffic Facilities.
+3. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary scope and OSM road, orbit, water system and green-field background data, for design research and spatial relationship identification only.
 
 #### 4.4 Soft response strategy *World-class self-adaptation (1 bottom + 5 source)
 
@@ -2157,9 +2133,9 @@ The strategy concludes with four applications in chapter 5:
   - (b) Length of first-level open interface and public-space usage
   - (a) Element redundancy as alternative to success and cross-node takeover
   - Key data and flood-risk exposure for governance functions
-- Early warning of internal flooding via a "four-prevention system" (12 hrs ahead of plum typhoon);
-- Water level/inundation prediction error (Yao Yumu 0.03 m scale);
-- (a) Risk list auto-generates bar numbers and time limits (article 539);
+- Lead time for internal-flood early warning;
+- Error in predicted water levels and inundation extent;
+- Completeness and timeliness of generated risk lists;
   - Inundation preview coverage and update frequency
   - Early fire detection, breakdown isolation, and emergency transition times
   - Continuous public-service availability during failures
@@ -2181,7 +2157,7 @@ The strategy concludes with four applications in chapter 5:
   - **Network response**: Aligns with "Current takeover success rate" for missions with node failure, implemented via high-speed interconnections and triple-state switching
 
 #### 4.4.10 Design of boundaries
-This strategy is a conceptual program for the urban design competition. AI-generated site plots, 30-50 acres, six-group spatial structures and proportions are design conditions, not approved site selection, usage, size, or engineering conclusions.
+This strategy is a conceptual program for the urban design competition. The site plots, work units, six-group spatial structure and proportions are design conditions, not approved site-selection, land-use, scale or engineering conclusions.
 
 Data must include total surface, building size, energy consumption, drawings, and simulation indicators.
 
@@ -2439,7 +2415,6 @@ This conceptual strategy serves the urban design competition, not a stand-alone 
 3. China Institute of Architectural and Design Research, Ltd.: "A draft of the Convergence Concept Program for Jing-Zhang Railway Site Parks", 2020.
 4. `AI Map/map-three-layers.html ' and `AI map/osm-data.js: temporary scope and OSM road, orbit, water system and green field background data, only for design research and space relationship identification.
 
-> Before formal submission, register specific page numbers and quoted boundaries for external info at `sources.json ', and unknown conditions such as location, coverage, structural security, town and fire safety should be registered at `assumptions.json.
 
 ## Update project lists, implementation policies and phased plans
 
@@ -2449,7 +2424,7 @@ Implementation level serves as export value for planning, approval, investment d
 
 #### 5 Application landing: from outcome to scene
 
-Translates planning outcomes into approvals, investment decisions, and city operations via four integrated interfaces-Approval rules, Decision transformation, Operational security, Public flow experiences-anchored in Beijing's "Multi-Role One" platform, International Large Data Exchange, HaidianCity Brain, and Jing-Zhang Railway Park.
+Planning outcomes are translated into four integrated interfaces for approvals, investment decisions, urban operations and public life. Public-platform practices are used only as methodological references, not as implementation commitments.
 
 #### 5.0 General: Planning for the export of four values at the executive level of the operating system
 
@@ -2457,9 +2432,9 @@ The floor addresses the final query of the six-layer logic -**how planning creat
 
 |Module|Interface|Core contradiction|Main clients|Anchorage|
 |5.1 Planning and approval|AI-aided planning and compliance interface|Stabilization of dynamic results by statutes|Sector, design unit, evaluation expert|Beijing Multi-System Coordination Platform monitors information|
-|5.2 Investment decisions|Urban renewal decision-making interface|Limited authority and accounting for low-impact renewal|Implementation, fiscal, social capital|Beijing International Big Data Exchange, Haidian Integrated Data Service|
-|5.3 Urban operations|Monitoring of urban flow interface|Complex traffic, energy, safety in extreme events|City transport centres, operators, street communities|HaidianCity Brain IOCC, 1+1+2+N|
-|5.4 Public Life|Resident-tourist experience interface|Heritage activation, public participation, planning awareness|Residents, tourists, developers, students|Jing-Zhang Railway Site Park (phase I opened)|
+|5.2 Investment decisions|Urban-renewal decision interface|Limited authority and unclear accounts|Implementation body, fiscal departments, social capital|Public data-service practices|
+|5.3 Urban operations|Resilient urban-operation interface|Traffic, energy and extreme-event safety|Operation centres, operators, communities|Public urban-operation practices|
+|5.4 Public life|Resident and visitor experience interface|Heritage activation, participation and planning awareness|Residents, visitors, developers, students|Railway-heritage public-space practices|
 
 Planning approval 5.1; issuance of space rules 5.2; conversion of investment decisions to project timeline 5.4; reverting demands and perceptions 5.3
 
@@ -2478,7 +2453,7 @@ This module asserts that planning approvals are not final outcomes but an instit
 
 #### 5.1.2 Jing-Zhang context: why innovation belts need more compliance governance
 
-- **Complex tenure:** Phase I site park, ~13 ha railway tenure, built free for public space under an agreement between Beijing Bureau of China Railways and Haidian district (2021), mandating transparent, need-based compliance updates.
+- **Complex tenure:** railway-corridor renewal involves multiple ownership and authorization relationships and therefore requires a transparent, traceable compliance process.
   - **Multi-rule superimposed:** Constraints include municipal, district super-trajectories, Wenbao railway heritage (e.g., Qinghua station), water services (Clean River, Light Moon River, Turn River), transport, plus manual cross-cutting rule checks.
 - **High public interest:** Railway heritage protection and urban renewal create strong tension; public demands transparency (opposed 5.4).
   - **Contest context:** Proposal relies on provisional boundaries; compliance reviews act as gatekeepers to shape official restraints from provisional assumptions and stop temporary geometry being treated as legal red lines.
@@ -2559,7 +2534,7 @@ Question 2: Test the candidate mechanism that complex property rights, safety co
 #### 5.2.2 Jing-Zhang Language: Updates of authentic "books" along railway lines
 
   - **Low-impact stocks are real:** Numerous inefficient industries, storage, idle land and overlapping property rights exist along the bi-rail corridor.
-- **Precedent:** authorizes free use of 13 ha of railway tenure for public-space logo (Site Park). **Best practice** for urban renewal selection in 2023.
+- **Public-case reference:** railway-corridor public-space renewal shows that ownership coordination, public access and long-term operations should be designed together.
   - **The business model can be replicated:** The "city partner" model integrates route stakeholders into shared business.
   - **Data asset growth pole:** Haidian follows a nationally replicable data-asset entry pathway.
 
@@ -2592,7 +2567,7 @@ Economic accounts (value-added land, rent, operating income + data-asset growth)
 
 Updated de-sensitized project data will form a registrable asset; the Northern Digital Institute-Haidian integrated service centre will interface, registration tables will be completed, and the "fourth book" added to the project update.
 
-#### 5.2.6 Wisdom means and technical routes (with authentic and quoted anchor points)
+#### 5.2.6 Methods and technical route (with public-case reference)
 
 |Wisdom.|Issues addressed|Technical elements|
 |Update the assessment of potential|Low-impact recognition of experience|Land-use efficiency, accessibility, tenure complexity, updated potential index|
@@ -2601,7 +2576,7 @@ Updated de-sensitized project data will form a registrable asset; the Northern D
 |Full-cycle monitoring|Progress reports|Key Node Watchboard + Abnormal Early Warning + Allocation of Responsibility|
 |Assetization of data|Data value sleeping|Data registration, compliance, entry tables, circulation (to the north)|
 
-> **Real anchor:** Beijing International Big Data Exchange - a core pole of Beijing's global digital economy. Haidian's first data-asset entry (New Sea Area, Apr 2024, Wisdom Park Energy/Parking Data Set, Table 101 million, Valuation 228.8 million) plus Haidian Integrated Data Element Service Centre and Data Element Site Lab (2025, Jan). Provides rights, compliance, circulation, trading, and full-chain assetisation services.
+> **Public-case reference:** Public data-exchange and data-element service platforms provide methodological references for registration, compliance, circulation and asset management. This proposal does not cite unverified transaction values, valuations or performance figures.
 
 #### 5.2.7 Site cards: three typical user-hours
 
@@ -2641,10 +2616,10 @@ The module argues **city operations must move beyond "sensitization-disposal" to
   - **Multi-modal transport superheavy:** subways, suburban rail, high-speed lines, urban roads overlapping along the Jing-Zhang corridor; Chong Ha station-Beijing North Station exemplifies a multi-modal hub.
   - **Computational power extension:** Zhongzhi Park provides reasoning and training compute, peripheral layout training centre, and energy-compute-security synergies as new topics.
 - **True water-security boundary:** clean river, moon river, trans-river and rail corridor interlink; internal flood risk and "four-prevention" digital twin fully designed in 4.4. 7 scenario IV.
-- **Bottom-seat maturity:** HaidianCity Brain completed IOCC, 1 + 1 + 2 + N structure, and over 200,000 sensor-perception networks.
+- **Interface with existing capability:** the proposal reserves interfaces to district-level operation platforms, sensing facilities and spatial-information basemaps, without claiming unverified system scale or performance figures.
 
-#### 5.3.3 Site location: no duplicate construction based on HaidianCity Brain IOCC
-City Brain Sensory Network, ICA, IOCC command/control and "Steps of Time and Space"; supersedes 5.3 dynamic promotion models, exceeds 4.4 smart "four-prevention" closed loops, and computational power-traffic scenes. This module interfaces "Innovative Area Operation" without replacing HaidianCity Brain.
+#### 5.3.3 Site location: connect to district-level urban-operation capability
+The proposal reserves interfaces to district sensing, computing, command-and-dispatch and spatial-information capabilities, adding dynamic simulation, the four-prevention loop and compute-transport scenarios without replacing the existing urban-operation system.
 
 #### 5.3.4 Corresponding to chapter III issues
 
@@ -2676,7 +2651,7 @@ Access the main operator interface within closed loops of the four-scenario "fou
 
 Shared facilities, transport, emergency resources and community services are dynamically demand-distributed, docking 6.2 "lightly activated camp town".
 
-#### 5.3.6 Wisdom means and technical routes (with real and quoted anchor points)
+#### 5.3.6 Methods and technical route (with public-case reference)
 
 |Wisdom|Issues addressed|Technical elements|
 |Multi-modal traffic promotion|Multiple Synergy|Transport Simulation, Real-Time OD, Multi-Intelligence Schedule|
@@ -2685,7 +2660,7 @@ Shared facilities, transport, emergency resources and community services are dyn
 |Dynamic resource movement|Resource mismatch|Supply-demand matching, hierarchical authorization, continual markup|
 |Run feedback design|Data lacks flow-space return|Operating data → Space design feedback loop (link 4.4.6)|
 
-> **Real anchor:** Haidian City Brain (memorandum signed in 2018; structure 1+1+2+N; computational power 2028 trillion ops/s; >200,000 sensors region-wide; access to 10,000 road cameras, 13 boards, over 40 systems; perception data ≈5 billion + 60 million daily; "time-space information map" built). Effective cases: scavenger-governance violation rate 26%.4%, identification accuracy 95%; snow-sweeping advance 30-40 min; western intelligent traffic lights and fire-truck efficiency improved by 20%. (Press-reported figures, not independently verified; reference base only, not commitments of this proposal.)
+> **Public-case reference:** Public urban-operation practices in multi-source sensing, spatial-information integration, event coordination and assisted dispatch provide methodological references. This proposal does not cite unverified compute capacity, device counts, data volumes or governance-performance figures.
 
 #### 5.3.7 Site cards: three typical user-hours
 
@@ -2711,7 +2686,7 @@ Real-time public-safety dispatch requires human confirmation and an auditable lo
 
 #### 5.3.10 Basis of reference
 
-Beijing Government portal & Haidian City Brain Ten Sites & Tech-needs release (2023-01); People.cn Beijing & Haidian City Brain Top-Ten applications release (2.0-2023-06-13); Haidian Government citizen dialogue: City Brain smart urban services (2023-01); Bermuda Smart Cloud client case, Haidian City Brain (2025-04); Programme 4.4 Site IV (water-safety "four-prevention system").
+Proposal 4.4, Scenario IV (water-safety four-prevention system), and methodological references from public urban-operation platforms; unverified external performance figures are not cited.
 
 #### 5.4 Public Life - Urban Experience of Residents and Visitors
 ![5.4 Prototype cut-off of the Jing-Zhang experience interface for public life](assets/prototypes-shots/7.4.en.webp)
@@ -2722,9 +2697,9 @@ One candidate mechanism in Issue 5 is insufficient public participation; this re
 
 #### 5.4.2 Jing-Zhang: The park that has grown is the best interface
 
-- **Part of the space:** Open to public in June; spans 2023, north-to-east, south-to-south, and south-to-Sichuan, ≈2.4 km long, ≈16.8 ha, forming surface linear space released by the Jing-Zhang high iron.
+- **Existing public space:** the linear space released by undergrounding the railway provides an accessible public interface; this proposal relies on fieldwork and formal material rather than unverified length or area figures.
 - (b) Maintain Qinghua Station (1960), restore the old Jing-Zhang line, integrate >20 railway elements (human slope, memorial dunes, train rollers, etc.), and convert the north four-ring railway bridge into the "Sunset Lodge" Jing-Zhang Railway Outdoor Museum.
-- **Active Mobility system:** New greening of ≈120 000 m², creation of a "three-green" activity space, and 5 new roads linking to the breakout.
+- **Active-mobility system:** connect the linear green space to surrounding streets and public destinations; quantities remain subject to formal survey and design.
 - **Places of activity:** 20 other venues (standard football, five-person football, basketball, smart gym, etc.).
   - **Operating model:** The "city partner" model incorporates key route units into shared business.
 - **Long-term view:** Beijing North Station plan extends ≈9 km, covering ≈14 km² radiation, serving 9 street towns and ≈20 tertiary institutions.
@@ -2826,7 +2801,7 @@ Public-space proportion is computed from the design layer versus total boundary 
 #### 5.7 Interface with competition tasks and existing modules
 
 |Competition Task / Existing Modules|Four module acceptances|
-|Global case|Shenzhen Nanshan "Strategic Downfall" investment decision, urban operations, One-North Singapore government|
+|External reference|Method references for investment decisions, urban operations and approval coordination, without unverified case-performance claims|
 |Agent 3 AI+ scene|Transport, services, consumption, medical, education public life + urban operating load|
 |object.4|"Cultural Experiences" of public life for developer walks, result showrooms, and honor wall.|
 |delegate.6 Long-term ops|Operate four modules via phased, closed-loop mechanism|
@@ -2838,7 +2813,7 @@ Public-space proportion is computed from the design layer versus total boundary 
 #### 5.8 Landing statement (take note of the package submission)
 
 1. The four modules are conceptual recommendations/reference proposals for professional study, not implementation plans, as the Government has already set arrangements;
-2. Module indicators populate `metrics.json '; data sources (including public reports from City Brain, North China House, Site Park, etc.) enter `sources.json; requirements from bulletin/mission document populate `compliance_matrix.json`;
+2. Reproducible module indicators populate `metrics.json`; formally cited data sources enter `sources.json`; bulletin and taskbook requirements populate `compliance_matrix.json`;
 3. Prototype includes digital twin platform (8.3-1), AI Planning Assistant interface (8.3-2), and a fully processed video slice (8.3-3) serving as shared technical base and demo for the four modules;
 
 ## Description of risk, copyright and compliance
