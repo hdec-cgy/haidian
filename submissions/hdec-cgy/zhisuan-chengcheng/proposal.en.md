@@ -251,7 +251,7 @@ The orientation operates at three levels, matching the Core Three (1.2):
 #### 1.2 Top-level pull: an important discussion of sources of science, technology and innovation
 Secretary-General Xi Jinping.
 
-Strengthen the science- and innovation-source function to generate new scientific discoveries, technological inventions, industrial directions and ideas from scratch, aiming to be the first discoverer of scientific laws, inventor of technologies, pioneer of innovation industries, and practitioner of innovation ideas, delivering original basic and applied research that breaks critical technology cores.
+(Paraphrase, not verbatim quotation; wording subject to the authoritative Xinhua release) Strengthen the science- and innovation-source function to generate new scientific discoveries, technological inventions, industrial directions and ideas from scratch, aiming to be the first discoverer of scientific laws, inventor of technologies, pioneer of innovation industries, and practitioner of innovation ideas, delivering original basic and applied research that breaks critical technology cores.
 
 This discussion supplies the top-level pull for "world-class access of international innovation" and anchors the program's four dimensions - **"four first"**:
 
@@ -316,7 +316,7 @@ The observed-pattern–candidate-mechanism-diagnostic indicator chain reveals a 
 
 #### Problem identification: AI Generous Resource Pooling, the support system is still in "Securing Basics."
 
-Jing-Zhang AI's innovation united **535** university faculties and **556** AI firms, yet public services remain residential-basic. Co-locating talent, business, life shows the core issue: innovative resource intensity exceeds current system capacity.
+Jing-Zhang AI's innovation united **535** university faculties and **556** AI firms (Amap public-POI statistical caliber, scraped 2026-08, not item-by-item verified, for relative-density comparison only), yet public services remain residential-basic. Co-locating talent, business, life shows the core issue: innovative resource intensity exceeds current system capacity.
 
 #### Problem: AI has created a pool of resources, and the system of supporting facilities is still in the "basics"
 
@@ -326,8 +326,8 @@ The "human spot" and "facility spot" are co-located but mismatched: resources ga
 
 The innovation zone concentrates creative resources in a two-polar spatial pattern: North-end talent and South-east industrial convergence.
 
-- **535 places in higher education** Data: Qinghua University (400+ dept/building) plus Beijing Forestry, China Mining, Medical, Science & Tech form the nation's densest AI talent pool.
-- **AI enterprise 556** Data: 128 families at five junctions exceed second-tier business area by multiple times, driving industrial clustering.
+- **535 places in higher education** (POI statistical caliber): Qinghua University (400+ dept/building) plus Beijing Forestry, China Mining, Medical, Science & Tech form the nation's densest AI talent pool.
+- **AI enterprise 556** (POI statistical caliber): 128 families at five junctions exceed second-tier business area by multiple times, driving industrial clustering.
   - **In the middle is "the corridor"**: a few-kilometre commuting-collaborative link between North and South that should exist but does not.
 
 #### Where is it?
@@ -338,7 +338,7 @@ Core judgment
 Core judgment: where talent density peaks, the innovation link is weakest; the current situation shows "inhabitation" without solving "innovation", offering AI-centred support rather than population-centred.
 
 Space overview: tertiary and AI enterprise resource cluster.
-Default layout shows original site for 535 + 556 AI enterprise; top-right panel reveals resource layer.
+Default layout shows POI points of ~535 universities + 556 AI enterprises (statistical caliber); top-right panel reveals resource layer.
 
 #### Current public service provision combing: basic level 298 and six types of gaps
 
@@ -346,7 +346,7 @@ Contrasting innovation needs, public services consist of "one base plus six gaps
 
 |Level|Current status characteristics|Innovation need question related to AI|
 |---|---|---|
-|**Strategic layer** Official caliber 298|Basic living standards (food, school, health, exercise)|Targets "inhabitants" not "innovators", misaligned with high-density distribution; bottom-up rather than empowerment|
+|**Strategic layer** ~298 facilities (team ledger, residential-standard values)|Basic living standards (food, school, health, exercise)|Targets "inhabitants" not "innovators", misaligned with high-density distribution; bottom-up rather than empowerment|
 |**Innovation package (type 6)** Coffee/social, fitness, library self-study, conference roadshow, canteen, community display|Scattered, self-emerging, fragmented; lacking Third Space and Innovation Services|Without such interaction, AI talent collisions-and thus innovation-cannot occur|
 
 Population caliber further highlights the mismatch magnitude:
@@ -413,7 +413,7 @@ Question III
 
 It is not only a matter of space, but also of governance.
 
-- **Boundaries of the Wall:** 18 scientific institutions, 72% back to park - closes wall to porch, prevents facility sharing, creates unfriendly interfaces and loses high-value green gallery.
+- **Boundaries of the Wall:** ~72% of 18 scientific institutions back onto the park (team-measured caliber) - closes wall to porch, prevents facility sharing, creates unfriendly interfaces and loses high-value green gallery.
   - **Administrative boundary:** multiple, overlapping secular and administrative borders create complex governance layers.
 
 - **18 places**: scientific institutions, 72 % back to parks - **7** Wall: closed interfaces blocking access and sharing
@@ -477,7 +477,7 @@ Question II
 
 #### East-West connections have been cut for a long time, and traffic density is still low.
 
-Railways, orbits, trans-rivers and fast roads create an east-west cut-off, forcing longer trips. Network density is **5.72 km**, below the required **8 km/km²**; current condition includes **30 break-ups, 64 tids**, and poor connectivity, worsening corridor crossing.
+Railways, orbits, trans-rivers and fast roads create an east-west cut-off, forcing longer trips. Network density is **5.72 km**, below the required **8 km/km²**; current condition includes **30 break-ups, 64 tids (team-measured calibers, see Appendix F)**, and poor connectivity, worsening corridor crossing.
 
 - **5.72**: Network density km/km² (target 8) - **30**: **64** typography
 ![Study range road systems and east-west access](assets/figures/fig_road_network.en.svg)
@@ -718,7 +718,7 @@ Addressing Chapter III's five core issues, the strategy includes continuous spec
 Based on identified issues, the proposal transforms public service facilities from point supply to a continuous spectrum (solo, occasional, coexistence, communication, collaboration, demonstration, community, urban life) and completes AI infrastructure with **3** general power hub and **12** edge node.
 
 Space overview: continuous spectrum support and AI infrastructure.
-Shows original locations of 535 tertiary and 556 AI enterprises; interface (S/M/H/L) and infrastructure (junction/edge node) layers appear on the upper-right panel.
+Shows POI locations of ~535 universities and 556 AI enterprises (statistical caliber); interface (S/M/H/L) and infrastructure (junction/edge node) layers appear on the upper-right panel.
 
 #### Continuous spectral support policy: S / M / H / L 4-level network
 
@@ -791,9 +791,9 @@ Site selection follows norm drop-off: 100 m from railway (category A ≥ B/C ≥
 
 |Category|Contents|Source/ caliber|
 |---|---|---|
-|University places 535|Qinghua 400+System / Building + Northwood + Mining (Beijing) + North Great Medical Department + North Coda, etc.|Map POI, 2026-08 grab, WGS84|
-|AI Enterprise POI 556|5 mouths 128 families on one horse; only 58 AI-high entities|Map POI, 2026-08 grab, high faith|
-|Basic maintenance 298|Official-calibre public service facilities|Standardized Bottom|
+|University places 535|Qinghua 400+System / Building + Northwood + Mining (Beijing) + North Great Medical Department + North Coda, etc.|Amap POI, scraped 2026-08, WGS84, statistical caliber not item-by-item verified|
+|AI Enterprise POI 556|5 mouths 128 families on one horse; only 58 AI-high entities|Amap POI, scraped 2026-08, statistical caliber not item-by-item verified|
+|Basic provision 298|Public-service facilities ledger measured per residential planning-standard values|Team self-audited ledger caliber (standard-value baseline)|
 |Pai ≈ 60,000|AI Innovative population (4-80,000)|Push Value|
 |Per capita 3.0 m² / VIII|0.3 / Occasional 0.2 / Co-existence 0.4 / Exchange 0.5 / Collaboration 0.8 / Demonstration 0.3 / Community 0.3 / Urban public life 0.2|Case experience|
 |S/M/H/L ratio|≈ 26% / 41% / 23% / 9%; S=150 / M=50 / H=3 / L=3|Push Value|
@@ -839,7 +839,7 @@ Focus area II
 ![Beijing AI Community of Origin](assets/prototypes-shots/C.en.webp)
 *Figure C: Beijing AI Community of Origin*
 General Secretary Xi Jinping issued an important directive during an April study of innovative eco-communities in Shanghai 2025, coinciding with the creation of the Shanghai "mode space" big model.
-"Advanced intelligence technology accelerates over time. AI is both a nascent enterprise and a youthful force. To fulfill the Chinese nation's great dreams and the hopes of its youth, everyone must be patriotic, uphold national will, strengthen capabilities, align personal effort with national destiny, carry forward history, and shine on China's modernisation stage."
+Core message (paraphrase, not verbatim; wording subject to authoritative releases): AI technology is accelerating into explosive growth; AI is a young enterprise and the cause of young people; the young are encouraged to be patriotic, ambitious and capable, aligning personal effort with national destiny and carrying the baton of history on China's modernisation stage.
 
 The Beijing AI community of origin is the "World class of original innovation" **scene core**, forming part of the "**Thoughts and Standards**" in the source chain:
 
@@ -856,7 +856,7 @@ Elemental convergence, ecological synergy
 ![DazhongsiAI Industrial Cluster](assets/prototypes-shots/D.webp)
 *D|DazhongsiAI Industrial Cluster*
 General Secretary of Xi Jinping.
-"The country has abundant data resources, industrial systems, market space and AI development prospects. Strengthen policy support and talent development to deliver more high-quality, safe, reliable products."
+Core message (paraphrase, not verbatim; wording subject to authoritative releases): the country has abundant data resources, complete industrial systems and vast market space with broad AI prospects; policy support and talent development should be strengthened, open-source collaboration encouraged, and AI innovation, industry and application advanced together to foster a healthy ecosystem.
 
 Dazhongsi oversees the "**industrial landslide and ecological clustering**" segment of the source chain.
 
@@ -2005,8 +2005,6 @@ Accordingly, the AI community of origin comprises **the elemental structure of t
 2. **Space resilience (disaster resistance and reconstructability)**: physical space is flood- and fire-resistant, scalable, reconstructable, with critical functions located away from vulnerable or isolated sites.
 3. **System resilience (self-healing and voice rights)**: standards, rules, open-source governance and multi-intelligence collaboration are iterative, auditable, and globally exportable.
 
-Within this framework, **computational power is defined as the "underseat energy element" rather than a mere "chamber park"**: it underpins the system without dominating the core. Large-scale training and centralisation occur at peripheral training centres and at Zhongzhi Park, which hosts the AI autonomous-innovation system. The AI community operates via "external training - Zhongzhi Park full-scale reasoning - origin near light (Dazhongsi margin)" Level 3 commutal power network, leveraging high-speed computing for on-demand regional services and maintaining its own "enginehouse park" in a dense zone.
-
 > **Core scenario: a "source of self-regeneration" - talent circulates in open-source publishing halls and joint research; businesses expand in factor-sharing courtyards; standards emerge in assessment and security labs and disperse globally; data flow in credible sandboxes is evenly distributed; on-demand community power serves the public, perceived as a health transition in resilience.**
 
 #### Jing-Zhang Language: Rail corridor as resilience skeleton
@@ -2017,8 +2015,6 @@ The Jing-Zhang Railway Innovation Belt offers an irreplaceable **linear spatial 
   - **Element Channel**: Jing-Zhang rail, subway and peri-urban lines form a multi-modular channel for talent, materials, data and emergency response; during extremes, it provides trans-regional flow and backup for urban lifeline security.
   - **Water safety boundary**: Qing River, Moon River and trans-river systems intertwine with rail corridors, creating a spatial security boundary and an urban "four-prevention" water-security system.
   - **Activation of historical memory**: Jing-Zhang Railway's industrial heritage (orbit, bridge, station) is repurposed as open-source "resilience commons" and public art, enabling the historic space to support future innovation and prevent artistic fractures.
-
-Global evidence shows portability: Silicon Valley's Stanford-Dune Road links brain density, venture capital, turnover; Kendall Square updates the university-anchor-industrial-alternation model; Tel Aviv's "Silica Creek" demonstrates civil-military tech conversion under geo-stress; Shenzhen illustrates rapid shift from replacement to innovation; One-North (Paris-Singapore) supplies eco-syncs via government-large-enterprise clusters, with villages acting as "high-school-head enterprise-unicorn-incubation" models. These references are recorded in 'sources.json' and do not constitute a factual commitment to this proposal.
 
 #### 4.4.2 Correspond to previous problem identification sections
 
@@ -2849,7 +2845,7 @@ Public-space proportion is computed from the design layer versus total boundary 
 
 The results package finalizes the team's original version but does not present the conceptual proposal as statutory planning or definitive implementation. Major risks: location/area errors from temporary boundaries; insufficient transport, municipal, electricity, fire-protection and environmental data; limited traffic, power-facility, flood, vibration, noise, heat-discharge and functional-conflict information; lack of transparency; privacy leaks or algorithmic automatic deviations; confusing historical recovery and unclear external authorizations for fonts, images, media.
 
-Team results are registered separately from third-party data.
+Team results are registered separately from third-party data. Submitting identity, attribution and third-party material licences were confirmed per-asset by the submitting entity on 2026-08-31: every asset in formal use traces to a rights basis (team-authored works, disclosed AI-generated media, open-source redistribution with licence headers, statistical POI citation, or paraphrased textual reference); see assets/media/appendix-g-rights-inventory.md and report/copyright_statement.md.
 
 Appendices in `assets/media/`: task-closure(A) · logo-vi-direction(B) · regional-collaboration(C) · pilot-protocol(D) · data-governance(E) · claims-audit(F) · rights-inventory(G).
 
@@ -2857,4 +2853,4 @@ Appendices in `assets/media/`: task-closure(A) · logo-vi-direction(B) · region
 
 The reference system contains the competition announcement with Agent's mission, site packages, planning standards, full team drafts, and open policies and cases within permitted borders.
 
-The full team manuscript is archived in `report/narrative.md`. Machine audits support retroactive recalculation but do not replace the original argument. Additions must be recorded in body, indicator or spatial conclusion with source, licence, timeframe and use limits. [source:SITE-PACKAGE] [source:SOURCE-REGISTRY]
+The team manuscript, synchronized with this audit round's claim-caliber downgrades, is archived in `report/narrative.md`. Machine audits support retroactive recalculation but do not replace the original argument. Additions must be recorded in body, indicator or spatial conclusion with source, licence, timeframe and use limits. [source:SITE-PACKAGE] [source:SOURCE-REGISTRY]

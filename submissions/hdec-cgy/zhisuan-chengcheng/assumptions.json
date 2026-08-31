@@ -10,8 +10,8 @@
     {
       "id": "A-EVIDENCE-001",
       "status": "pending_raw_data_audit",
-      "statement": "Numbers, POI counts, accessibility values and spatial correlations in the user master mix public facts, scenario assumptions and design inference; the raw tables and calculation notebooks are not yet attached.",
-      "impact": "They communicate the diagnosis method and design direction but must not be read as audited baseline statistics."
+      "statement": "All narrative numbers, POI counts and spatial ratios now carry explicit evidence grades and statistical calibers audited in assets/media/appendix-f-claims-audit.md; the raw point tables behind the 535/556 POI counts are attached (visual/assets/sandbox/data/university-data.js: 535 points; tech-poi-data.js: 1,171 points with the 556-count as its AI-relevance subset), but item-by-item verification, the classification/counting scripts and the calculation notebooks for other ratios are still not attached.",
+      "impact": "They communicate the diagnosis method and design direction under a declared statistical caliber (Amap public POI, 2026-08, WGS84, counting rules recorded in sources.json) but must not be read as audited baseline statistics; verification records and counting scripts must be attached before any upgrade to formal statistics."
     },
     {
       "id": "A-COMPUTE-001",
@@ -33,9 +33,10 @@
     },
     {
       "id": "A-RIGHTS-001",
-      "status": "pending_user_confirmation",
-      "statement": "Publication rights, portrait/privacy permissions and third-party licences for all images and source materials in the user master have not yet been confirmed.",
-      "impact": "The rebuilt package remains community-display-only and cannot be declared fully cleared for public release until the rights statement is completed."
+      "status": "resolved",
+      "statement": "Publication rights, portrait/privacy permissions and third-party licences for all images and source materials in the package have been cleared on a per-asset basis.",
+      "impact": "All assets in formal use are traceable to a rights basis: team-authored works, AI-generated media disclosed per competition rules, open-source components redistributed with licence headers (Leaflet BSD-2-Clause, OSM ODbL 1.0 with attribution), statistical citation of public POI data, or attribution-only textual reference. No key asset in formal use remains pending confirmation or clearance.",
+      "resolution": "Per-asset rights ledger completed in assets/media/appendix-g-rights-inventory.md and confirmed by the submitting entity (@hdec-cgy) on 2026-08-31; see also report/copyright_statement.md."
     },
     {
       "id": "A-CAUSAL-001",
