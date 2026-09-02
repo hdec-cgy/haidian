@@ -1,5 +1,5 @@
 ---
-title: "Intelligent Computing as Original Innovation: Jing-Zhang’s Second Autonomy under AI-Native Planning"
+title: "Compute Catalysis: Jingzhang's Second Autonomy through AI-Native Planning"
 author_github: "hdec-cgy"
 language: "en"
 proposal_format_version: "2"
@@ -11,7 +11,7 @@ tracks: ["ai-traffic-walkability", "enterprise-services-ecosystem", "civic-agent
 scenarios: ["ai-traffic-walkability", "enterprise-service-copilot", "public-safety-operations-review", "ai-cultural-guide", "robot-delivery-low-speed"]
 ---
 
-# Intelligent Computing as Original Innovation: Jing-Zhang’s Second Autonomy under AI-Native Planning
+# Compute Catalysis: Jingzhang's Second Autonomy through AI-Native Planning
 
 **From tech autonomy to urban autonomy, let Jing-Zhang reclaim its role as a source of original innovation.**
 
@@ -331,13 +331,13 @@ Core judgment: where talent density peaks, the innovation link is weakest; the c
 Space overview: tertiary and AI enterprise resource cluster.
 The default view shows exploratory university and technology-enterprise point layers. They demonstrate spatial patterns only and do not present formal statistics.
 
-#### Current public service provision combing: basic level 298 and six types of gaps
+#### Public-service types and accessibility gaps
 
 Contrasting innovation needs, public services consist of "one base plus six gaps".
 
 |Level|Current status characteristics|Innovation need question related to AI|
 |---|---|---|
-|**Strategic layer** ~298 facilities (team ledger, residential-standard values)|Basic living standards (food, school, health, exercise)|Targets "inhabitants" not "innovators", misaligned with high-density distribution; bottom-up rather than empowerment|
+|**Basic-living service layer** (types and accessibility pending a formal survey)|Basic living support such as food access, education, health care and exercise|Current evidence supports a service-type framework, not a verified facility count or population-demand baseline|
 |**Innovation package (type 6)** Coffee/social, fitness, library self-study, conference roadshow, canteen, community display|Scattered, self-emerging, fragmented; lacking Third Space and Innovation Services|Without such interaction, AI talent collisions-and thus innovation-cannot occur|
 
 Population caliber further highlights the mismatch magnitude:
@@ -477,9 +477,9 @@ Question III
 
 #### Site switching and access is inefficient
 
-Line 13 parallels the Jing-Zhang corridor but suffers poor flow and lacks organic links to parks on both sides. TOD facilitation area covers only 70%, with regional accessibility at 30%; most parks require >10 min walk from stations. Issues include low access to Dazhongsi, Zhichun Road, five exits, Tsinghua East Pass, weak active-mobility links, and bridge-under parking interference.
+Line 13 parallels the Jingzhang corridor, while the submitted design study identifies candidate transfer and active-mobility discontinuities between stations, parks and cross-corridor links. These observations are exploratory and require an official network dataset, field survey and reproducible route analysis before any coverage ratio or walking-time conclusion is stated.
 
-- **70%: TOD convenience area (30% insufficient) - **10 min+**: majority of site to park walk hours - **4 stop**: Dazhongsi/Sichuan Road/5 junctions/Cinghua East Lush
+- **Exploratory observation:** candidate station-to-park and cross-corridor gaps are retained as locations for professional survey; no audited coverage ratio, walking-time threshold or absolute ranking is claimed.
 ![Urban orbit and site migration](assets/figures/fig_station_transfer.en.svg)
 **Chart 3 - Urban orbit and site exchange.** Jing-Zhang high-iron surface, tunnel and U-train segments interweave with line 13 (above, underground, entry), creating complex trans-junctions at Xinjiang Gate, Dazhongsi, Sichuan Road, five junctions, Xinhua East Pass, South Road, etc.
 Question IV
@@ -512,9 +512,9 @@ Following a phenomenon-to-mechanism-hypothesis diagnosis, the five issues become
 
 |Problem|Diagnostic indicators|Status / Threshold (calculated)|Data sources and monitoring tools (digitized base)|
 |---|---|---|---|
-|** Question one, triple compound**|Switch time (stereolink)|7 vertical switching of faults / length of evacuation; points of multilayered traffic conflict|+ BIM/IOT twin platform|
+|**Question one: multi-level interchange**|Transfer and evacuation performance|Candidate vertical interchange types and multi-level pedestrian/vehicle conflict locations; quantities pending field and engineering verification|Surveyed sections + BIM/IoT model after authorization|
 |**Question 2: east-west barriers**|Network accessibility|Road continuity, average cross-corridor detour and connection gaps|Official road vectors + traffic flow + route calculation|
-|** Question three.**|Swap Time / Multi-Model Travel Sharing Rate|TOD convenience zone 70% vs 30% inconvenient; station to park walk 10min; access gap|Public transport/orbit/active migration + site access monitoring|
+|**Question three: weak connections**|Transfer time / multimodal share|Candidate station-to-park and cross-corridor gaps; baseline and thresholds pending reproducible network analysis|Authorized transit, street and active-mobility data + route analysis|
 |** Question four, mixed conflict**|Congestion index (order)|Intensities of conflict between nodal groups; peak congestion periods in sections such as Chengdu Roads/Two Clear Roads|Multisource Perception Integration (Video/ Radar)+Auto-Detection of Events|
 |** Question V Managing roughness**|Multi-modal travel sharing (quality)|Ground occupancy rate below bridge violation; damage rate to active mobility lanes; bicycle invasion frequency|Subbridge Portal AI Test + action quality rating + hand-shot closed loop|
 
@@ -783,10 +783,10 @@ Site selection follows norm drop-off: 100 m from railway (category A ≥ B/C ≥
 |Category|Contents|Source/ caliber|
 |---|---|---|
 |University-research and technology-enterprise points|Exploratory distribution layers used only to demonstrate spatial patterns|Not item-by-item verified; no count, density or ranking claim|
-|Basic provision 298|Public-service facilities ledger measured per residential planning-standard values|Team self-audited ledger caliber (standard-value baseline)|
+|Basic-living service types|Service-type and accessibility framework|Exploratory design framework; facility counts require a formal survey|
 |Pai ≈ 60,000|AI Innovative population (4-80,000)|Push Value|
 |Eight activity-space types|Solitude / encounter / co-presence / exchange / collaboration / display / community / urban public life|Scale to be recalculated from formal conditions|
-|S/M/H/L ratio|≈ 26% / 41% / 23% / 9%; S=150 / M=50 / H=3 / L=3|Push Value|
+|S/M/H/L mix|Scenario mix based on activity intensity, service reach and delivery conditions|Conceptual framework; no fixed count or ratio claim|
 |COMPUTATION POWER CENTRE 3|Zhongzhi Park Main Port 1000 Kcal / Origin Community Port 600 Kcal / Dazhongsi 400 Kcal (local 2000 Ccal, 0.6 EFLOPS, 2%)|Extrapolation value; host room down to proposal decision|
 |Edge Node 12|≈384, ≈0.1 EFLOPs|Data (POI group) + evolution value|
 |Location Back|Railway A 80 m / B-C 10 m; Subway A 10 m / B-C 8 m; Housing 10 m; Flood ban|Normal value|

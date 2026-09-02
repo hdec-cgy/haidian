@@ -20,7 +20,7 @@
 
 | 任务书要求 | 本方案输出与位置 | 证据状态 |
 | --- | --- | --- |
-| 5—8个全球AI创新生态案例 | A.2 全球案例对比表（6例，定性归纳） | 已闭环 |
+| 全球AI创新生态公开参照 | A.2 公开参照机制表（定性归纳） | 已闭环 |
 | AI创新生态图谱 | 正文创新生态章 + ecosystem 图谱图件 | 已闭环 |
 | 众智园全栈自主体系 | 重点区域章 众智园节（算力—模型—场景三层） | 已闭环 |
 | AI原点社区创新生态 | 重点区域章 原点社区节（开源生活、青年人才） | 已闭环 |
@@ -42,14 +42,14 @@
 
 剩余缺口：测试场景为桌面推演/沙盘口径，**不是已批准运营**；客流/信令等数据在清权前不接入。
 
-### agent.4 AI公共空间、智能原生新业态与朝圣地标设计
+### agent.4 AI公共空间、智能原生新业态与城市级目的地设计
 
 | 任务书要求 | 本方案输出与位置 | 证据状态 |
 | --- | --- | --- |
 | 京张遗址公园AI公共空间 | 蓝绿空间章遗址公园节（衔接中规院/中建院2020公开概念） | 已闭环 |
 | 东西缝合与南北贯通概念策略 | 慢行网络章（复合环、断点打通 JT-01） | 已闭环 |
 | 大钟寺智能原生消费与商务场景 | 重点区域章 大钟寺节 | 已闭环 |
-| 不少于3个AI朝圣地标 | A.4.1 地标名录 L1—L5 | 已闭环 |
+| 城市级AI公共目的地 | A.4.1 目的地名录 L1—L5 | 已闭环 |
 | 荣誉展示体系和公共空间组件库 | A.4.2 + A.4.3 | 已闭环 |
 
 剩余缺口：地标与组件均为概念设计；涉铁、文保、绿地审批前置未满足前不做实体实施（附录D）。
@@ -79,12 +79,12 @@
 
 剩余缺口：全部活动为概念设想，未写成已确定安排；不夸大政府承诺（遵守 forbidden_claims）。
 
-## A.2 全球AI创新生态案例对比（定性归纳，公开资料口径）
+## A.2 全球AI创新生态公开参照（定性归纳，公开资料口径）
 
-| 案例 | 关键机制（定性） | 对本带的启示 |
+| 公开参照 | 关键机制（定性） | 对本带的启示 |
 | --- | --- | --- |
 | 旧金山湾区（美） | 研究—资本—创业的正循环；大学与产业人才双向流动 | 以"高校—园区—社区"界面缝合代替围墙分割 |
-| 波士顿肯德尔广场（美） | 科研机构周边的转化集聚；步行尺度的生活服务配套 | 原点社区"15分钟创新生活"参照 |
+| 波士顿肯德尔广场（美） | 科研机构周边的转化集聚；步行尺度的生活服务配套 | 原点社区步行友好型创新生活参照 |
 | 伦敦国王十字（英） | 铁路枢纽遗产再利用；公共空间带动片区价值 | 京张遗址公园"遗产—科技"叠合参照 |
 | 新加坡 one-north（新） | 功能混合的创意产业新城；分期滚动开发 | 三区两翼分期生长与混合用地参照 |
 | 深圳南山（中） | 企业主导的产业生态；政府平台撬动社会资本 | 大钟寺企业成长路径与资产盘活参照 |
@@ -113,7 +113,7 @@
 
 声明：均为测试验证与推演设计，**不构成已批准运营**。
 
-## A.4.1 AI朝圣地标名录（L1—L5，概念设计）
+## A.4.1 AI城市级目的地名录（L1—L5，概念设计）
 
 | # | 地标 | 位置（概念落位） | 叙事 | 空间/数字构成 |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,7 @@
 ## A.4.2 荣誉展示体系（概念）
 
 - **三类荣誉**：开源贡献荣誉（代码/数据/方法）、社区共创荣誉（居民/商户参与）、国际协作荣誉（跨区域/跨国贡献）。
-- **流程**：提名 → 机器可读台账核验 → 公示（≥15天）→ 上墙/上线；全程留痕可申诉。
+- **流程**：提名 → 机器可读台账核验 → 按适用规则公示 → 上墙/上线；全程留痕可申诉。
 - **载体**：L2成果展示墙、年度典礼（A.6.1）、线上荣誉页；不与商业排名混用。
 
 ## A.4.3 公共空间组件库（概念）
@@ -193,4 +193,4 @@
 
 ## English Summary
 
-This appendix closes the loop on all six required agent tasks: per-task tables mapping each brief requirement to its location in this package with evidence status and remaining gaps (A.1); a six-case global ecosystem comparison in qualitative terms only (A.2); six user personas with non-digital fallbacks and three test scenarios explicitly framed as sandbox/desktop exercises, not approved operations (A.3); a five-landmark pilgrimage catalog, honor-display system, and component library, all conceptual and contingent on heritage/railway clearance (A.4); a cultural-wayfinding vs. brand-logo separation matrix (A.5); a conceptual annual event calendar, developer community operations, and a conversion funnel labelled as suggested pathways with no committed arrangements (A.6); and a closure overview (A.7).
+This appendix closes the loop on all six required agent tasks: per-task tables mapping each brief requirement to its location in this package with evidence status and remaining gaps (A.1); a qualitative public-reference comparison of global innovation ecosystems (A.2); six user personas with non-digital fallbacks and three test scenarios explicitly framed as sandbox/desktop exercises, not approved operations (A.3); a city-scale public-destination catalog, honor-display system, and component library, all conceptual and contingent on heritage/railway clearance (A.4); a cultural-wayfinding vs. brand-logo separation matrix (A.5); a conceptual annual event calendar, developer community operations, and a conversion funnel labelled as suggested pathways with no committed arrangements (A.6); and a closure overview (A.7).

@@ -28,7 +28,7 @@
       "required": false,
       "language": "neutral",
       "title_zh": "智算策源：AI原生规划下的京张二次自主方案封面",
-      "title_en": "Compute Catalysis: Jingzhang’s Second Autonomy Cover",
+      "title_en": "Compute Catalysis: Jingzhang's Second Autonomy through AI-Native Planning — Cover",
       "description_zh": "表现京张铁路遗产、智算枢纽、边缘节点、能源系统与韧性算力切换关系的AI生成概念封面。",
       "description_en": "An AI-generated conceptual cover illustrating railway heritage, computing hubs, edge nodes, energy systems and resilient compute failover.",
       "sha256": "4e2e53a067283fbc86a2d4c88bd3d1d65ba37fa8bc9da65d1ed79c5f4bdf51f4"
@@ -38,7 +38,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "2cf80546fbd793994ec62d246a85d1968b1ab00905ff421418f9040f53efb281"
+      "sha256": "932ccbfda6d9be903422b929f26c3a658828943f9525634d1d31f13261571c9f"
     },
     {
       "path": "agent.json",
@@ -68,13 +68,13 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "c68794e7885b1d4814f99f5050af28f2a1765371c9f8b64aedb77e973b8bc8c7"
+      "sha256": "95c7cd41fd1a22f4dfc155f110e823f81208beec56e2ba16b248b187ccbe9d94"
     },
     {
       "path": "compliance_matrix.json",
       "role": "compliance_matrix",
       "required": true,
-      "sha256": "dc43f73a4827e7f11298554a0f6575d40b64f363e27f3151f9c751ba8849802e"
+      "sha256": "8615ca2df37508c7d279aae4fa6b8095306fb1e236ebeb56e774348bb710a349"
     },
     {
       "path": "standard_matrix.json",
@@ -93,75 +93,75 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "6df28d2bbe736aaa22c8914beafb7c500e47b494317a142b89d2bdf102129b37"
+      "sha256": "fc70d659115cb32d81895d2224a403f7740d72bea6a7219949a57f043f59a858"
     },
     {
       "path": "report/narrative.md",
       "role": "narrative",
       "required": false,
-      "sha256": "e00b6f2172632e2e62b8a2f9b1f4c4bd0c1cbd0cf730ff67ec50e4ef55dd4046"
+      "sha256": "7151446fd1d850f27795b94bd2354ac16878c528fe433a01c956513f0da41aec"
     },
     {
       "path": "report/copyright_statement.md",
       "role": "copyright_statement",
       "required": true,
-      "sha256": "b807aea893d45e9256140549843493274e0232e94023c46bb11eeb8a6333d6f3"
+      "sha256": "7353fa038ce0e29e2a06c133be2ffe0c9020a92607c676d056da67b4a28013c4"
     },
     {
       "path": "drawings/a3-booklet.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "961c90b12e03d308af2542413b98f2ee3cee8f94040e7b5974570ca36783d97f"
+      "sha256": "8caf668d205fc150272511abdfb6882187fcf5ad15a97fff90b1a303edfe7dd0"
     },
     {
       "path": "drawings/a0-boards.pdf",
       "role": "drawing",
       "required": true,
       "language": "zh",
-      "sha256": "c9dfa6099b2c28f35582d048771d7cf182cf555c367dbf3b10c1203378a0a963"
+      "sha256": "d50f9c709423acdb7e6defe07c74c1b63559f636111129821c656d69ba8abe3f"
     },
     {
       "path": "visual/index.html",
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "535c9b3cb308e0bf8199e97898df6722f600ee794cd297a8555f3b2297f0b741"
+      "sha256": "3ee591a30318c952699c214d326be51a11189071321208b47047014618863eec"
     },
     {
       "path": "assets/figures/key-areas.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "073ed956e4463f3d1e352ac8123f22493c79b3177f3e6ccbba6bd5d717a83875"
+      "sha256": "b61f26fa28f00a054eb50c2b2f90c56f14ef7289711dc21efc401099e732a15a"
     },
     {
       "path": "assets/figures/land-use-structure.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "77cf4ad3eb59a9b6493587bbb492eab80a34b73d64e4343e57e1f7de1ab7172c"
+      "sha256": "093b77ea9bce5c316cfba03d8a853a283d62889a3cf667cfa3ebe8174f3408a8"
     },
     {
       "path": "assets/figures/metrics-evidence.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "04e610fb79bb1e76663ba6fa167def3e4585608c6d307a0e5fe7bb5b05cf4d27"
+      "sha256": "9d62a6e01547fa715b8fb078f58c8329bba45297d847d4fb88d247f71d1236b9"
     },
     {
       "path": "assets/figures/mobility-bluegreen.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "df0b2a9706b64bcda1d88085a36360c590dec6bb12cc505efb7c730af0457c7b"
+      "sha256": "15ff56861c13a73264b57370bd9cf2ba70613d7da675c87ac285dade6a210b91"
     },
     {
       "path": "assets/figures/site-overview.png",
       "role": "proposal_figure",
       "required": true,
       "language": "zh",
-      "sha256": "c5f222713903700995c8ae95f283fcd82a35e36199dc0d690c373e4e1f8683d2"
+      "sha256": "bad40d4778cc5605057d42bebed3bedc702107089aefa01e2d7b56d5bd0b1403"
     },
     {
       "path": "geometry/buildings.geojson",
@@ -223,7 +223,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "82a1ab71433b12442dbe4758a2b8c7a8844785416e4825616e57f80de8d1a3f8"
+      "sha256": "33cbe6685f3359087c40810bce08be64153b153771f208c5c58d4da20f480f2b"
     },
     {
       "path": "report/proposal.en.html",
@@ -231,7 +231,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "890c6f57c08588a8ae1a90412f09447f55ddc1a4337486ef50cb4724397010e5"
+      "sha256": "875d29a373898018b0de09627dce31d544fc6a3491019042528a26b4a947fb93"
     },
     {
       "path": "visual/index.en.html",
@@ -239,7 +239,7 @@
       "required": true,
       "language": "en",
       "translation_of": "visual/index.html",
-      "sha256": "5de92e8448e2415f1e1330b530cd068d64eb481a9ec7f9cd8c2ce0f7186f0e1b"
+      "sha256": "b5b7dfa684a2a97175f8aa6ea55341d9ba9509bca6ca8d5fb140e520d18e359a"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -247,7 +247,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a3-booklet.pdf",
-      "sha256": "981fb35663c4c8c690db4c0b36fe6782f72ec4ea1f0041dfa83a2cdbc26c376a"
+      "sha256": "326b6995d3e54218d4ca666a22a2b35ea7f91b4fa81e35c84007e2088fc4a1bc"
     },
     {
       "path": "drawings/a0-boards.en.pdf",
@@ -255,7 +255,7 @@
       "required": true,
       "language": "en",
       "translation_of": "drawings/a0-boards.pdf",
-      "sha256": "720fcbfbd36034f7b2f173c92662fd71acdaf08f364d64a132a2d19721f1518a"
+      "sha256": "50db6d22caac4396b414a388bf92d11b250a1caef6c29b1e609af9673003e851"
     },
     {
       "path": "assets/figures/key-areas.en.png",
@@ -263,7 +263,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/key-areas.png",
-      "sha256": "6114dd72ecf9be0ef1c8ef5c4bc07767584f3502beaae8b8df6bcb5addb9585a"
+      "sha256": "a88bb246a677873c92c0cbfba0866065ad43f1c7d79e1cc781e80c8ab95d3b50"
     },
     {
       "path": "assets/figures/land-use-structure.en.png",
@@ -271,7 +271,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/land-use-structure.png",
-      "sha256": "a783d3f3f9efccb0d2908cb4ca24d728c619fc257be7a95039d15dd04d9062dd"
+      "sha256": "e195939465a5007b2aeddc7ec76132212458b77f76faebffd84138119a61d82b"
     },
     {
       "path": "assets/figures/metrics-evidence.en.png",
@@ -279,7 +279,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/metrics-evidence.png",
-      "sha256": "34595d592e43fa791668214f8c481ec9be05f8671d1f46adc7faf6acdfb960b3"
+      "sha256": "7cf2cc422a6e1fe2e7d6db05a47e5263097735f1739c1aae1e5fe15fce9222a2"
     },
     {
       "path": "assets/figures/mobility-bluegreen.en.png",
@@ -287,7 +287,7 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/mobility-bluegreen.png",
-      "sha256": "2da4bf462e561f234fb6098e8d2d94b366ef4fad4024f2a04ce01d71d37dde83"
+      "sha256": "843490305a906ea61ae014a9048f03374d50e4149e851f4ce876a54b3dca015e"
     },
     {
       "path": "assets/figures/site-overview.en.png",
@@ -295,14 +295,14 @@
       "required": true,
       "language": "en",
       "translation_of": "assets/figures/site-overview.png",
-      "sha256": "1d5e92e2ef2d400a3cab943a8c20fadaf955311ef415632d01dc6797d5a293b0"
+      "sha256": "73dd3c67337ee11ab3d5036d2155990eb05870c3f859965b974c2924d700a1ae"
     },
     {
       "path": "changelog.md",
       "role": "changelog",
       "required": false,
       "language": "zh",
-      "sha256": "9f08daa6d8906809d1cf09af75f9e319ba7c071cdc8970b5a7c18b9e3799a891"
+      "sha256": "0d115b4136f707388bbda849a02d666430ed9a370a2870abfd4eb56fbc63cdae"
     },
     {
       "path": "assets/figures/ai-compute-infrastructure-masterplan.webp",
@@ -1253,15 +1253,15 @@
       "required": false,
       "language": "en",
       "translation_of": "assets/figures/sandbox-preview.png",
-      "sha256": "8d27c5bf366ec9fc3473308bf8eb8b7b3265c1449e02890d13020eff67e2db39"
+      "sha256": "4dccb1065ad2b3c7356591dd3056a4b265f0aa835fab2371a557382e7c0ac68f"
     },
     {
       "path": "assets/media/appendix-a-task-closure.md",
       "role": "transcript",
       "required": false,
       "language": "zh",
-      "title_zh": "A 任务闭环（agent.1—6逐项回应+全球案例对比+人群画像+地标名录等）",
-      "sha256": "13c7871618a7c705dd412bb3b834427c79b83a4e007be227d5f5191522add15e"
+      "title_zh": "A 任务闭环（agent.1—6逐项回应+全球公开参照+人群画像+目的地名录等）",
+      "sha256": "1fb5105ec491f8d13f30662dc0a4a420c44a7944ded10e0532e5dc4363f08cbb"
     },
     {
       "path": "assets/media/appendix-b-logo-vi-direction.md",
@@ -1277,7 +1277,7 @@
       "required": false,
       "language": "zh",
       "title_zh": "C 三区两翼区域协同机制表（概念建议）",
-      "sha256": "e52a7add7ca15253437f57f6e58d6650f7461ebda7dabb859eabee87ed296a08"
+      "sha256": "906db2a83921069ebc9cbfbac511c3ab3c9fdce3f6ca8b69cf318f698d8a8b0a"
     },
     {
       "path": "assets/media/appendix-d-pilot-protocol.md",
@@ -1301,7 +1301,7 @@
       "required": false,
       "language": "zh",
       "title_zh": "F 定量与事实主张审计表（F1—F16）",
-      "sha256": "fed7e93383fc2ef6e18967ae49d1a5b4c0d6411c3f4a2f95e86387b71e19541c"
+      "sha256": "cdc269ab9f4955003c9f744e0ac1a104d405d351e33ae98fffe7e826318b5244"
     },
     {
       "path": "assets/media/appendix-g-rights-inventory.md",

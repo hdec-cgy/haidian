@@ -18,9 +18,9 @@ OpenAI Codex only performs competition-format adaptation, resource-path localisa
 
 1. **团队自制**（32 个 SVG 分析图、13 个沙盘界面截图、全部 HTML/JS/GeoJSON 代码与测算数据）：团队职务作品，提交主体享有权利，随包参赛提交；
 2. **AI 生成媒体**（92 个渲染图与封面，中英双语）：按竞赛规则披露为 AI 生成、人工选样修订；不含真实人物肖像、企业标志或第三方版权原图输入；生成工具与过程记录可按组委会要求提供；
-3. **开源第三方**：Leaflet 1.9.4（BSD-2-Clause，版权与许可头保留于 `visual/assets/vendor/leaflet.js`）；OpenStreetMap 冻结快照（© OpenStreetMap contributors，ODbL 1.0，界面与来源清单已注明归因）；
+3. **开源第三方**：Leaflet 1.9.4（BSD-2-Clause，版权与许可头保留于 `visual/assets/vendor/leaflet.js`）；OpenStreetMap 冻结快照（© OpenStreetMap contributors，ODbL 1.0，界面与来源清单已注明归因）；Noto Sans CJK SC（SIL Open Font License 1.1，离线子集与许可声明置于 `visual/assets/cjk-font.css`）；
 4. **统计引用**：高德（amap）公开 POI 仅作统计口径引用（2026-08 抓取，WGS84），不展示受保护地图瓦片原样、不批量再分发原始记录；
-5. **文字引用**：领导人论述采用**转述口径**（非逐字复制）并注明考察/会议出处；竞赛与规范文本仅作文字引用；不复制任何第三方版式、图形、历史照片、肖像或机构标识。
+5. **文字引用**：仅使用来源清单中可核验的公开文本并作必要转述；不复制任何第三方版式、图形、历史照片、肖像或机构标识。
 
 不存在 `pending_user_confirmation` 或 `pending verification/clearance` 状态仍被正式使用的关键资产；后续新增素材须先登记 `assets/media/appendix-g-rights-inventory.md` 再进入正文。
 
